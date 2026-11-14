@@ -1,0 +1,1501 @@
+area_sqft,bedrooms,bathrooms,age_years,parking,gallery,floor,furnishing,property_type,facing,location,price
+3624,4,1,14,2,4,20,Furnished,Independent House,North,Jyoti Nagar,23051498
+2585,5,4,7,3,2,20,Semi-Furnished,Independent House,West,Garkheda,15074455
+1405,5,1,11,1,5,11,Unfurnished,Apartment,North,Seven Hills,8430003
+3997,4,4,14,1,5,14,Semi-Furnished,Villa,South,Osmanpura,25165836
+1096,5,1,6,1,3,13,Semi-Furnished,Independent House,East,Garkheda,6897443
+2589,4,3,11,0,2,13,Unfurnished,Independent House,South,N-1,12661101
+1471,2,4,21,0,1,11,Semi-Furnished,Independent House,West,N-1,7174034
+905,4,1,29,3,4,15,Unfurnished,Independent House,North,Ulkanagari,6582584
+1630,5,1,24,2,0,0,Furnished,Villa,North,Railway Station,9564231
+2148,3,1,26,0,1,6,Semi-Furnished,Apartment,South,Satara Parisar,9250136
+2313,4,2,0,3,5,4,Furnished,Independent House,North,Osmanpura,15109064
+3110,3,1,4,1,5,6,Furnished,Apartment,North,Harsul,11861969
+3389,5,3,30,3,0,19,Unfurnished,Independent House,East,Satara Parisar,15124086
+3692,5,4,12,3,2,18,Semi-Furnished,Independent House,West,Ulkanagari,24273956
+3143,4,4,11,3,3,10,Semi-Furnished,Villa,South,Satara Parisar,15292861
+3746,1,1,26,1,0,19,Unfurnished,Apartment,North,Satara Parisar,15527159
+1884,1,2,4,0,2,9,Furnished,Villa,West,Waluj,7459251
+1586,1,2,19,3,5,6,Semi-Furnished,Villa,East,N-2,9003888
+3449,1,3,16,1,1,4,Unfurnished,Apartment,North,Garkheda,18114964
+2157,2,4,5,3,3,10,Furnished,Apartment,North,N-3,11822752
+3381,2,2,21,2,0,8,Furnished,Independent House,South,Osmanpura,20590755
+3261,3,4,18,1,2,18,Furnished,Apartment,East,Beed Bypass,15685895
+3048,2,4,0,2,3,17,Furnished,Villa,West,Seven Hills,18630306
+712,4,4,25,3,0,19,Unfurnished,Independent House,East,Chikalthana,3960037
+902,5,4,26,2,0,8,Furnished,Villa,South,Chikalthana,5108690
+853,1,4,19,2,0,7,Semi-Furnished,Independent House,North,Chikalthana,4106629
+1946,3,1,28,1,5,17,Semi-Furnished,Independent House,North,Chikalthana,8832252
+2154,4,1,3,0,5,20,Furnished,Villa,East,CIDCO,12380887
+909,3,3,21,2,5,13,Semi-Furnished,Independent House,West,Ulkanagari,6830162
+2935,3,3,1,0,5,0,Furnished,Apartment,East,Chikalthana,12560714
+996,1,4,16,3,3,13,Unfurnished,Independent House,North,Waluj,4247172
+2777,5,1,13,0,2,0,Furnished,Apartment,East,CIDCO,13922615
+3844,2,1,9,2,5,2,Semi-Furnished,Independent House,South,Harsul,14628237
+2136,2,3,26,1,1,16,Unfurnished,Apartment,North,Chikalthana,8899654
+1950,2,3,25,2,1,12,Semi-Furnished,Villa,East,N-1,10208460
+469,1,4,13,3,5,11,Furnished,Villa,North,Garkheda,4293838
+2432,3,1,25,2,5,16,Semi-Furnished,Independent House,North,Jyoti Nagar,15558632
+2761,5,4,11,3,4,6,Semi-Furnished,Apartment,South,Harsul,10788310
+3320,4,4,12,1,3,9,Semi-Furnished,Villa,East,N-2,17158217
+566,1,4,20,0,1,0,Furnished,Independent House,South,Chikalthana,2824056
+937,5,1,0,3,4,6,Furnished,Apartment,West,Osmanpura,6728739
+603,3,1,21,0,4,13,Unfurnished,Villa,East,Padegaon,3389181
+3509,5,4,15,1,1,15,Unfurnished,Villa,South,CIDCO,18496917
+2207,5,3,25,1,5,4,Semi-Furnished,Villa,West,CIDCO,12334719
+1798,5,4,15,3,1,16,Furnished,Independent House,North,CIDCO,9937400
+1406,3,3,4,3,2,0,Unfurnished,Independent House,North,Shahnoorwadi,8493636
+2894,4,3,13,1,4,18,Semi-Furnished,Villa,North,Railway Station,16415441
+1225,5,2,9,1,5,1,Furnished,Apartment,North,N-1,6448245
+2099,5,3,28,3,3,20,Unfurnished,Apartment,South,Seven Hills,12093256
+2954,3,1,2,3,3,17,Unfurnished,Villa,South,N-2,15706755
+3890,5,3,24,2,0,16,Unfurnished,Independent House,South,Chikalthana,16631944
+1815,5,3,18,0,3,11,Unfurnished,Apartment,North,Shahnoorwadi,10168468
+2952,4,2,30,3,3,18,Semi-Furnished,Villa,South,N-2,15361195
+3546,4,3,20,3,4,15,Unfurnished,Villa,East,Seven Hills,20994689
+3432,2,1,2,2,4,10,Furnished,Independent House,North,Shahnoorwadi,19528808
+3595,2,4,16,0,5,6,Semi-Furnished,Apartment,South,Seven Hills,20384428
+3443,3,2,1,0,4,4,Semi-Furnished,Villa,South,Chikalthana,15376504
+1815,4,1,30,2,0,12,Semi-Furnished,Villa,North,Shahnoorwadi,10880177
+2664,3,2,25,2,5,2,Unfurnished,Apartment,West,Beed Bypass,12651942
+1834,1,3,12,3,5,16,Unfurnished,Apartment,West,N-3,9803139
+1134,5,1,14,0,5,20,Furnished,Apartment,South,Osmanpura,7653187
+3962,2,3,8,0,5,14,Furnished,Apartment,East,Osmanpura,23831759
+920,1,3,11,1,5,11,Unfurnished,Independent House,South,N-1,5196673
+3195,4,2,27,3,4,8,Furnished,Independent House,North,Railway Station,17374896
+2486,4,1,27,3,4,12,Semi-Furnished,Villa,East,N-3,13971329
+3380,5,3,24,1,1,17,Furnished,Apartment,East,CIDCO,16851813
+3586,2,4,14,0,2,20,Semi-Furnished,Villa,East,Railway Station,19518684
+2083,1,3,30,0,4,15,Furnished,Independent House,South,Railway Station,11246172
+2118,3,1,22,0,4,4,Semi-Furnished,Independent House,North,Railway Station,11555432
+2351,1,3,12,0,3,0,Unfurnished,Independent House,South,Beed Bypass,11631198
+2651,2,2,21,1,2,17,Unfurnished,Independent House,South,N-2,13066617
+1212,1,1,15,2,4,20,Semi-Furnished,Independent House,North,Satara Parisar,5986717
+1213,2,2,17,1,1,14,Furnished,Villa,North,Garkheda,7921200
+615,1,4,14,3,5,9,Furnished,Apartment,East,N-1,3867123
+3922,2,1,27,3,4,1,Semi-Furnished,Apartment,West,Ulkanagari,24663973
+492,3,3,14,0,2,15,Unfurnished,Villa,South,Osmanpura,4305468
+1121,2,1,25,2,2,20,Unfurnished,Independent House,South,Seven Hills,6677168
+3031,5,2,0,0,0,11,Semi-Furnished,Independent House,West,Railway Station,16184865
+2286,3,1,25,0,0,14,Semi-Furnished,Villa,North,Chikalthana,10204868
+786,2,4,0,3,0,2,Unfurnished,Villa,North,Padegaon,4692393
+477,2,1,25,1,2,18,Furnished,Villa,North,Padegaon,3030238
+1981,5,2,25,1,2,18,Furnished,Apartment,North,N-2,10021039
+1163,1,1,6,1,1,11,Unfurnished,Apartment,East,N-1,5309061
+516,1,1,17,2,3,14,Semi-Furnished,Independent House,North,Beed Bypass,3131864
+3245,3,2,8,0,5,19,Semi-Furnished,Independent House,North,Ulkanagari,21253581
+3898,1,1,21,0,5,5,Furnished,Independent House,North,Waluj,13272718
+3396,3,3,7,0,3,5,Semi-Furnished,Villa,South,Harsul,13479213
+567,1,2,23,1,2,1,Furnished,Villa,South,Ulkanagari,4918123
+2118,2,2,3,2,3,0,Unfurnished,Villa,East,Padegaon,9545383
+2023,5,2,10,2,3,12,Furnished,Villa,East,N-3,11941053
+2489,2,1,22,1,3,1,Unfurnished,Independent House,South,CIDCO,12427614
+2086,1,1,8,2,5,2,Semi-Furnished,Villa,East,N-2,11367845
+685,2,2,20,3,2,8,Semi-Furnished,Villa,North,CIDCO,4658487
+3841,4,4,28,3,2,8,Unfurnished,Independent House,South,Osmanpura,23350684
+3686,5,3,26,1,1,3,Unfurnished,Apartment,West,Beed Bypass,17269879
+1768,3,1,5,0,0,16,Unfurnished,Villa,North,Garkheda,10626540
+2601,3,3,18,1,5,2,Furnished,Villa,South,Seven Hills,16164554
+2096,5,1,19,1,2,3,Unfurnished,Independent House,East,CIDCO,10955972
+3494,3,3,0,1,3,1,Semi-Furnished,Apartment,North,Seven Hills,19999944
+1591,5,3,14,3,4,19,Furnished,Apartment,South,N-2,8675808
+2544,4,4,12,1,2,18,Furnished,Independent House,North,N-2,13212115
+460,2,4,5,1,1,13,Furnished,Independent House,East,Beed Bypass,3270885
+3731,1,1,14,3,3,10,Unfurnished,Apartment,South,Seven Hills,20768132
+1053,2,1,21,2,4,13,Unfurnished,Independent House,North,CIDCO,5992133
+2086,5,2,13,3,5,0,Furnished,Independent House,North,Beed Bypass,11270988
+3952,1,1,8,1,3,20,Semi-Furnished,Apartment,North,Jyoti Nagar,24231649
+3731,3,2,26,0,2,11,Furnished,Villa,West,Satara Parisar,17110300
+2329,1,1,28,2,2,17,Unfurnished,Apartment,North,Railway Station,11617163
+3882,1,4,21,1,3,7,Unfurnished,Villa,East,Ulkanagari,25403918
+2932,3,4,18,1,5,16,Unfurnished,Apartment,West,Chikalthana,12299607
+3540,2,1,13,2,1,1,Semi-Furnished,Apartment,West,N-3,17920758
+2370,5,3,6,2,1,9,Furnished,Independent House,West,CIDCO,12841046
+3997,2,3,28,3,0,2,Furnished,Villa,North,Beed Bypass,19694752
+3760,5,3,18,0,3,14,Semi-Furnished,Villa,South,Padegaon,15916111
+3641,3,4,3,3,4,20,Semi-Furnished,Villa,North,Chikalthana,16496057
+2504,2,3,0,2,4,18,Unfurnished,Villa,South,Garkheda,14835710
+3206,4,3,9,2,1,2,Furnished,Villa,South,N-2,16771551
+2207,1,2,20,3,2,19,Semi-Furnished,Independent House,South,Railway Station,12033713
+3679,3,2,22,3,0,17,Furnished,Apartment,West,Waluj,12294167
+686,1,3,8,1,5,10,Semi-Furnished,Independent House,West,Ulkanagari,5429809
+1254,3,2,17,3,4,9,Unfurnished,Independent House,West,Railway Station,7335504
+3495,2,4,22,0,1,20,Furnished,Apartment,North,N-3,17504902
+617,2,4,12,0,4,6,Semi-Furnished,Apartment,East,Padegaon,3153319
+579,4,2,10,0,2,20,Furnished,Independent House,East,Jyoti Nagar,4780010
+3173,1,3,6,3,2,1,Furnished,Villa,South,N-2,16480229
+1200,4,3,2,3,2,16,Semi-Furnished,Villa,East,Jyoti Nagar,9044017
+2698,2,2,20,0,0,7,Unfurnished,Apartment,East,Jyoti Nagar,16087559
+2539,1,3,2,2,1,4,Furnished,Independent House,West,Garkheda,14439995
+2772,5,4,26,2,0,16,Semi-Furnished,Apartment,North,Railway Station,14627278
+461,3,4,30,0,0,4,Semi-Furnished,Independent House,South,Shahnoorwadi,2892754
+938,5,2,14,3,1,15,Furnished,Apartment,North,Satara Parisar,4794413
+784,5,3,8,2,1,17,Furnished,Independent House,South,Satara Parisar,4860370
+851,3,2,6,0,5,2,Unfurnished,Independent House,North,N-2,4899755
+3483,4,3,14,3,0,3,Unfurnished,Independent House,East,Ulkanagari,22477017
+3682,5,2,11,1,1,2,Semi-Furnished,Independent House,West,Ulkanagari,23697188
+1747,3,3,6,1,3,16,Unfurnished,Independent House,East,Shahnoorwadi,10422228
+721,4,3,24,1,5,6,Unfurnished,Apartment,West,Railway Station,3945050
+3950,2,4,17,1,4,15,Unfurnished,Apartment,West,Harsul,14336472
+848,1,1,23,3,3,4,Unfurnished,Apartment,North,N-3,4324078
+1913,3,2,12,1,0,6,Furnished,Apartment,North,Ulkanagari,12587873
+3628,2,1,25,0,0,2,Semi-Furnished,Apartment,East,Harsul,12565262
+3186,1,3,19,1,0,9,Furnished,Independent House,West,Railway Station,16901999
+452,3,2,12,3,4,14,Unfurnished,Apartment,South,Padegaon,2352900
+1740,1,4,2,2,3,8,Furnished,Apartment,West,Shahnoorwadi,10070377
+970,1,1,10,2,1,14,Semi-Furnished,Villa,East,Chikalthana,5154217
+1363,5,4,15,0,3,4,Unfurnished,Apartment,West,Beed Bypass,7033949
+2846,3,2,2,3,1,7,Furnished,Apartment,East,CIDCO,14813109
+665,3,4,7,3,0,15,Unfurnished,Apartment,North,Ulkanagari,4977768
+2166,2,4,30,2,5,6,Unfurnished,Villa,East,Seven Hills,13399009
+3169,3,1,29,2,1,3,Semi-Furnished,Independent House,East,Shahnoorwadi,17408834
+2435,5,2,26,0,0,16,Furnished,Independent House,South,Ulkanagari,16093722
+1457,3,2,6,1,0,1,Furnished,Villa,West,N-2,8584200
+727,4,4,3,1,3,16,Semi-Furnished,Apartment,West,CIDCO,4556573
+923,3,2,17,1,4,11,Furnished,Villa,South,Shahnoorwadi,6603018
+478,3,1,5,2,2,10,Semi-Furnished,Villa,West,Garkheda,4198773
+1187,5,4,16,2,4,8,Furnished,Villa,North,Jyoti Nagar,9231555
+2273,2,3,13,3,5,10,Furnished,Villa,East,Shahnoorwadi,14006595
+1438,5,3,15,0,2,19,Semi-Furnished,Villa,East,N-2,8596130
+1980,1,2,27,1,1,2,Unfurnished,Apartment,South,Shahnoorwadi,10251385
+1744,4,4,26,3,3,13,Unfurnished,Apartment,East,Beed Bypass,8681790
+1500,2,4,6,2,4,11,Unfurnished,Independent House,North,Padegaon,6920670
+3674,1,2,11,3,3,8,Semi-Furnished,Apartment,South,Garkheda,19870559
+1033,3,4,12,0,4,17,Semi-Furnished,Independent House,West,Harsul,4794618
+615,3,1,24,0,3,5,Unfurnished,Villa,West,Waluj,2857499
+3386,4,4,0,1,1,0,Semi-Furnished,Apartment,East,Waluj,11621276
+2399,1,1,19,1,5,6,Semi-Furnished,Independent House,North,Padegaon,10077241
+592,2,2,22,3,0,7,Furnished,Apartment,North,N-3,3441848
+3271,1,3,30,3,0,17,Semi-Furnished,Independent House,South,Harsul,11979326
+2880,3,4,15,3,5,2,Furnished,Apartment,South,Seven Hills,16747877
+1420,2,2,11,2,3,12,Unfurnished,Apartment,North,Padegaon,5797316
+2377,5,3,20,2,2,11,Semi-Furnished,Independent House,West,N-2,12404964
+1532,3,4,9,2,2,14,Unfurnished,Villa,South,Railway Station,9431484
+608,2,1,23,3,4,3,Semi-Furnished,Independent House,East,Waluj,2736699
+1723,5,2,3,1,1,3,Semi-Furnished,Villa,West,Shahnoorwadi,10850374
+3758,2,4,20,2,0,2,Semi-Furnished,Independent House,North,Seven Hills,21452133
+2831,2,3,4,0,5,12,Unfurnished,Independent House,West,Harsul,10852817
+953,1,4,1,2,5,16,Furnished,Apartment,East,Garkheda,6235418
+1702,5,3,0,3,3,3,Unfurnished,Villa,North,Jyoti Nagar,12089305
+1079,2,1,9,3,5,8,Unfurnished,Apartment,South,Beed Bypass,5784074
+3469,1,1,21,3,3,10,Unfurnished,Villa,East,Shahnoorwadi,19493024
+2802,1,4,11,3,3,14,Furnished,Independent House,South,Padegaon,12138281
+1418,5,4,25,0,0,2,Semi-Furnished,Apartment,East,N-2,7016528
+1458,3,2,11,1,3,20,Semi-Furnished,Villa,North,Garkheda,9071872
+3827,5,1,6,2,2,17,Furnished,Independent House,South,Ulkanagari,25393879
+2419,2,4,22,3,1,20,Unfurnished,Villa,South,N-3,13429642
+535,2,1,22,2,1,10,Semi-Furnished,Independent House,West,Railway Station,3491233
+752,1,4,26,3,0,13,Unfurnished,Apartment,North,Chikalthana,3285341
+3574,5,1,25,1,3,1,Semi-Furnished,Independent House,North,Waluj,12334256
+1562,5,1,20,0,0,10,Semi-Furnished,Apartment,West,Padegaon,6182803
+2087,3,2,1,1,4,8,Furnished,Villa,East,Jyoti Nagar,14496856
+1817,1,1,14,0,3,6,Furnished,Apartment,North,CIDCO,9109599
+2788,4,2,25,2,2,7,Semi-Furnished,Independent House,West,Garkheda,15568320
+1476,5,2,7,3,1,5,Unfurnished,Apartment,West,Shahnoorwadi,8641580
+753,5,3,11,3,2,15,Furnished,Independent House,West,Shahnoorwadi,5696758
+2924,5,1,22,2,4,14,Unfurnished,Villa,North,Harsul,11611379
+1238,5,2,18,1,5,3,Unfurnished,Independent House,North,Harsul,5311539
+2788,2,4,29,1,1,16,Unfurnished,Independent House,East,Jyoti Nagar,17351662
+3872,4,2,6,0,0,9,Unfurnished,Independent House,South,N-1,18408035
+1925,1,4,23,0,1,14,Furnished,Apartment,North,Waluj,6550321
+970,2,4,25,0,4,9,Unfurnished,Independent House,North,N-2,5307459
+499,3,4,27,2,1,17,Furnished,Independent House,East,N-2,3431546
+2034,3,4,1,0,4,16,Semi-Furnished,Apartment,North,Osmanpura,12705027
+3976,3,2,8,1,4,1,Furnished,Villa,East,Osmanpura,24995401
+3895,5,3,8,0,2,6,Semi-Furnished,Villa,South,N-3,20609829
+2785,5,2,3,3,4,0,Furnished,Apartment,South,CIDCO,14637565
+2922,4,1,16,3,1,4,Furnished,Apartment,South,N-3,15045375
+2035,3,2,11,0,1,2,Semi-Furnished,Independent House,West,Shahnoorwadi,11512041
+1682,3,2,22,1,3,7,Semi-Furnished,Independent House,South,N-2,8624228
+3998,1,3,15,1,5,15,Unfurnished,Villa,South,Ulkanagari,26327726
+797,3,4,21,0,3,7,Unfurnished,Apartment,West,N-3,4449681
+3475,1,1,15,3,5,19,Semi-Furnished,Apartment,West,N-1,16303764
+2136,2,1,1,0,4,1,Furnished,Apartment,East,CIDCO,11185754
+1653,2,4,17,2,5,2,Semi-Furnished,Villa,North,N-2,9421527
+939,4,3,16,1,5,17,Unfurnished,Villa,West,Seven Hills,6673633
+3983,3,4,6,3,5,8,Furnished,Apartment,North,Garkheda,21786209
+3428,2,2,19,1,1,1,Unfurnished,Apartment,West,CIDCO,16496347
+544,1,2,15,1,5,19,Furnished,Villa,East,N-3,4202800
+2126,5,2,7,0,1,3,Unfurnished,Villa,South,Ulkanagari,14751299
+3533,4,1,30,1,3,17,Unfurnished,Villa,West,Jyoti Nagar,22562413
+3651,4,3,18,2,2,4,Furnished,Independent House,West,Garkheda,20174604
+2400,1,3,18,0,2,20,Unfurnished,Independent House,West,Satara Parisar,10617359
+849,4,1,3,3,0,4,Furnished,Apartment,South,N-1,4792055
+871,2,3,4,3,5,2,Furnished,Villa,South,Padegaon,5146974
+2214,5,2,4,1,1,20,Semi-Furnished,Independent House,North,Seven Hills,13553166
+2361,5,1,12,0,1,17,Unfurnished,Apartment,East,N-2,11494443
+613,1,3,16,3,2,20,Furnished,Apartment,West,N-1,3524693
+2037,4,2,7,2,0,19,Unfurnished,Independent House,West,Seven Hills,12410004
+554,1,4,8,0,0,1,Unfurnished,Apartment,West,Beed Bypass,2738372
+3805,3,3,1,3,2,7,Unfurnished,Villa,East,Ulkanagari,25178722
+3078,4,1,22,0,4,7,Unfurnished,Villa,North,CIDCO,16080332
+3956,3,4,16,0,3,20,Semi-Furnished,Villa,West,N-1,19393139
+848,3,3,18,3,2,10,Semi-Furnished,Apartment,East,Beed Bypass,4547311
+2635,4,1,30,3,0,8,Semi-Furnished,Villa,West,Osmanpura,16565432
+2277,4,2,8,0,0,17,Semi-Furnished,Apartment,South,Shahnoorwadi,12853294
+1961,2,2,12,0,3,1,Furnished,Independent House,North,Railway Station,10662489
+2680,1,1,7,2,5,17,Semi-Furnished,Independent House,South,Shahnoorwadi,15530615
+3956,1,4,20,2,1,6,Unfurnished,Apartment,North,Ulkanagari,24962932
+2377,4,4,10,3,5,10,Unfurnished,Independent House,South,Ulkanagari,16012857
+1219,5,1,14,3,2,17,Furnished,Villa,North,Shahnoorwadi,8254504
+2775,3,1,28,0,2,18,Furnished,Apartment,West,Satara Parisar,11993555
+3888,1,4,4,2,1,15,Unfurnished,Apartment,North,CIDCO,19323331
+3625,3,4,9,1,2,9,Unfurnished,Independent House,North,Garkheda,19789728
+2609,5,1,19,3,5,9,Semi-Furnished,Independent House,West,Shahnoorwadi,14981532
+2447,1,2,20,0,3,10,Furnished,Villa,North,N-3,13404531
+3732,5,2,3,2,4,3,Semi-Furnished,Independent House,North,N-2,19104989
+1942,5,2,5,1,3,12,Unfurnished,Villa,North,N-1,10289122
+785,2,3,19,3,5,1,Semi-Furnished,Independent House,North,Railway Station,4916926
+2351,3,2,23,0,3,5,Unfurnished,Villa,South,Chikalthana,10531652
+1189,1,3,0,1,3,16,Furnished,Villa,North,Jyoti Nagar,8785787
+1591,5,1,16,1,3,19,Furnished,Villa,North,N-3,9579226
+2575,4,3,6,0,1,15,Unfurnished,Apartment,South,Seven Hills,14688437
+2244,5,3,16,1,5,12,Semi-Furnished,Apartment,North,Ulkanagari,14672084
+1899,3,2,25,2,4,4,Unfurnished,Apartment,West,N-2,9493343
+2075,4,2,6,2,1,2,Unfurnished,Apartment,South,N-3,10659236
+1655,4,4,27,0,3,3,Unfurnished,Independent House,South,Shahnoorwadi,9459053
+2911,4,3,2,2,3,13,Semi-Furnished,Independent House,North,Seven Hills,17514540
+654,4,1,12,3,2,19,Semi-Furnished,Independent House,North,N-1,4012073
+2460,2,4,23,2,3,14,Furnished,Apartment,West,Shahnoorwadi,13716487
+2639,1,1,25,0,1,4,Furnished,Villa,West,N-2,13347539
+2802,3,3,24,0,3,8,Unfurnished,Independent House,East,N-1,13174006
+2987,1,3,21,2,0,16,Unfurnished,Apartment,West,Jyoti Nagar,18102832
+2920,1,1,1,1,5,5,Semi-Furnished,Apartment,West,N-2,14292457
+2519,1,2,9,1,2,6,Semi-Furnished,Villa,South,N-3,13516751
+1020,2,3,18,2,0,6,Unfurnished,Independent House,North,N-1,5199645
+1333,5,3,21,3,3,13,Furnished,Apartment,East,Beed Bypass,7009289
+3547,1,3,1,0,5,2,Unfurnished,Independent House,South,Osmanpura,21324853
+3176,4,3,24,2,1,10,Furnished,Apartment,North,Jyoti Nagar,19699623
+2765,2,4,23,3,3,8,Unfurnished,Apartment,South,Waluj,9318918
+2417,2,2,27,3,5,11,Semi-Furnished,Villa,South,Osmanpura,15624860
+708,3,2,10,3,5,0,Unfurnished,Villa,South,Beed Bypass,4982324
+3425,4,4,10,0,3,5,Semi-Furnished,Independent House,North,Waluj,11962987
+2380,1,3,12,2,4,20,Semi-Furnished,Apartment,West,N-1,11303691
+1575,2,3,26,2,2,4,Unfurnished,Villa,East,N-1,8373695
+1379,2,2,29,0,2,8,Semi-Furnished,Independent House,West,Shahnoorwadi,7789932
+1868,2,3,11,3,0,20,Semi-Furnished,Independent House,North,Shahnoorwadi,10808163
+2271,2,4,20,3,1,0,Unfurnished,Villa,South,Garkheda,13045368
+2804,2,2,10,0,5,16,Unfurnished,Villa,West,Harsul,11346746
+1380,1,4,28,3,1,1,Furnished,Villa,North,N-3,8034648
+2133,4,1,7,2,2,3,Semi-Furnished,Apartment,North,N-3,11083482
+3712,5,3,24,0,4,13,Semi-Furnished,Apartment,North,Waluj,12413339
+1294,2,3,0,1,2,1,Semi-Furnished,Independent House,West,N-1,6777516
+1289,3,3,29,2,5,19,Unfurnished,Apartment,South,Padegaon,5509525
+2200,1,3,13,2,2,9,Furnished,Apartment,South,Ulkanagari,14306526
+3584,1,3,27,2,0,18,Furnished,Independent House,South,N-3,18224828
+2302,4,4,16,1,0,0,Unfurnished,Independent House,North,Osmanpura,14053912
+2831,1,4,26,3,3,7,Semi-Furnished,Apartment,East,Padegaon,11390813
+2105,5,2,16,3,5,11,Furnished,Villa,South,Padegaon,10245142
+1110,5,4,19,0,2,11,Unfurnished,Apartment,East,Waluj,4222580
+2378,4,3,16,1,0,7,Unfurnished,Villa,North,Beed Bypass,12228363
+2935,4,2,14,2,0,18,Semi-Furnished,Apartment,West,Beed Bypass,14317050
+2023,4,1,28,2,3,6,Semi-Furnished,Apartment,North,Shahnoorwadi,11403309
+2457,2,3,22,0,0,7,Furnished,Independent House,West,Railway Station,13220932
+1229,2,3,7,2,3,9,Unfurnished,Apartment,East,Ulkanagari,8394018
+1897,3,4,12,3,0,12,Unfurnished,Independent House,East,Padegaon,8255336
+1663,3,4,27,0,1,6,Unfurnished,Apartment,East,Seven Hills,9226054
+2879,1,1,23,0,0,8,Unfurnished,Apartment,North,Satara Parisar,12052278
+3562,5,4,10,1,2,10,Unfurnished,Villa,West,Ulkanagari,23706912
+3689,4,3,11,3,4,20,Unfurnished,Apartment,South,CIDCO,18709524
+3099,4,2,4,3,0,13,Furnished,Independent House,East,Harsul,12378906
+2160,4,2,17,1,3,0,Furnished,Independent House,East,Harsul,8495651
+1385,4,1,0,3,1,18,Furnished,Apartment,North,Garkheda,8464264
+651,2,3,10,0,1,13,Semi-Furnished,Villa,West,Waluj,3363048
+2013,3,4,5,2,4,1,Unfurnished,Independent House,North,Chikalthana,9249605
+2793,2,1,8,1,3,2,Furnished,Apartment,North,Ulkanagari,18112278
+3483,5,1,29,0,0,5,Unfurnished,Independent House,North,N-1,16159996
+2471,2,2,27,3,1,2,Furnished,Villa,East,Beed Bypass,12553034
+3057,2,3,24,1,3,0,Furnished,Independent House,South,N-2,15146703
+2918,1,1,14,3,2,9,Semi-Furnished,Villa,North,Harsul,11658166
+3996,3,1,16,1,4,7,Semi-Furnished,Independent House,East,N-1,18763744
+2350,2,1,29,3,2,2,Furnished,Apartment,South,Padegaon,9490237
+812,3,2,18,1,5,14,Unfurnished,Independent House,West,N-2,4711641
+2622,5,2,27,0,2,5,Semi-Furnished,Apartment,East,Ulkanagari,16744082
+2928,4,1,12,3,5,3,Unfurnished,Apartment,East,Railway Station,15327004
+3171,5,2,20,2,2,2,Semi-Furnished,Independent House,South,Ulkanagari,20694154
+1211,1,1,13,2,3,20,Furnished,Villa,South,CIDCO,7347731
+2432,5,3,12,2,1,10,Furnished,Apartment,East,Osmanpura,15157963
+2601,1,4,25,2,4,6,Unfurnished,Apartment,East,N-2,12617479
+2359,3,3,26,0,1,10,Semi-Furnished,Apartment,North,Shahnoorwadi,12668721
+2892,4,1,16,3,3,8,Semi-Furnished,Independent House,South,N-3,15201218
+2644,2,4,11,3,3,5,Furnished,Villa,West,N-1,13625805
+2060,1,2,23,2,2,10,Unfurnished,Villa,West,Railway Station,11381292
+3471,3,2,27,2,3,6,Unfurnished,Villa,South,Waluj,12230367
+565,5,1,16,0,0,7,Furnished,Villa,West,Osmanpura,4873170
+3334,5,3,13,0,1,10,Furnished,Independent House,West,Seven Hills,19672093
+726,4,2,8,3,2,14,Furnished,Villa,West,Beed Bypass,5196361
+562,3,1,3,0,4,0,Furnished,Apartment,East,Beed Bypass,3510815
+2685,1,3,0,3,2,1,Furnished,Villa,East,Garkheda,15614189
+3905,4,2,30,1,2,2,Furnished,Independent House,South,Ulkanagari,25138324
+2465,2,1,28,2,2,5,Semi-Furnished,Apartment,North,Garkheda,13229977
+3901,4,2,1,1,4,14,Furnished,Independent House,North,Osmanpura,24031287
+1688,3,2,28,2,4,6,Unfurnished,Apartment,East,Ulkanagari,10755858
+1526,3,1,24,1,0,9,Semi-Furnished,Independent House,South,Padegaon,6393793
+2909,4,1,23,2,5,3,Unfurnished,Villa,North,Beed Bypass,14792593
+1485,2,2,23,1,2,8,Unfurnished,Villa,East,Railway Station,8393081
+2334,2,2,21,1,0,17,Unfurnished,Independent House,East,Shahnoorwadi,12986040
+2305,5,4,10,0,0,10,Furnished,Apartment,North,Garkheda,12752643
+3109,2,3,18,0,2,16,Semi-Furnished,Villa,East,Railway Station,16715441
+920,2,1,0,3,2,9,Furnished,Villa,East,Jyoti Nagar,7177372
+1574,1,4,11,2,0,3,Furnished,Apartment,West,Waluj,5514156
+3476,3,4,4,1,0,4,Semi-Furnished,Villa,South,Waluj,12532114
+3824,2,4,13,2,3,8,Furnished,Apartment,East,N-2,18797844
+1573,2,4,8,0,5,10,Semi-Furnished,Independent House,East,N-1,8387040
+2328,5,1,1,0,3,17,Furnished,Independent House,South,Shahnoorwadi,13868467
+2985,1,4,20,3,2,2,Unfurnished,Apartment,East,Seven Hills,16636007
+2550,2,2,12,0,5,1,Semi-Furnished,Apartment,South,Padegaon,10322025
+1124,1,3,14,1,0,11,Semi-Furnished,Apartment,North,N-1,5328473
+3709,2,2,0,3,3,15,Furnished,Apartment,South,Shahnoorwadi,20823710
+2155,3,3,29,0,1,4,Semi-Furnished,Villa,South,CIDCO,11296350
+3016,4,1,29,3,2,20,Unfurnished,Villa,South,Harsul,11895626
+906,3,4,0,2,0,7,Unfurnished,Independent House,North,N-1,5109743
+644,5,1,28,1,1,12,Furnished,Villa,South,N-1,4276217
+1577,1,3,4,3,3,17,Furnished,Villa,South,Waluj,6880448
+2044,2,4,6,1,0,9,Furnished,Apartment,North,Jyoti Nagar,13155100
+2953,4,3,30,3,2,10,Unfurnished,Apartment,North,N-3,14753689
+2173,1,3,30,0,5,17,Semi-Furnished,Apartment,West,N-2,10647183
+2858,3,4,21,0,1,5,Furnished,Independent House,North,Padegaon,11874620
+3911,2,2,9,1,4,2,Semi-Furnished,Independent House,East,Beed Bypass,19140971
+942,3,4,0,0,2,12,Semi-Furnished,Villa,North,Shahnoorwadi,6737773
+2769,4,3,27,3,2,11,Furnished,Apartment,East,N-3,14304865
+2451,2,2,3,3,2,1,Unfurnished,Villa,North,Chikalthana,11142745
+1379,5,2,7,1,3,14,Semi-Furnished,Apartment,North,Satara Parisar,6872915
+3251,5,2,11,0,4,9,Unfurnished,Independent House,North,Jyoti Nagar,20508604
+2201,2,4,7,1,2,4,Furnished,Apartment,East,Osmanpura,13698540
+1646,2,4,8,1,2,1,Furnished,Apartment,South,Satara Parisar,7546944
+1429,4,1,29,2,2,16,Furnished,Villa,West,Padegaon,7165408
+723,5,4,28,3,4,17,Unfurnished,Independent House,East,Ulkanagari,5508699
+1739,3,3,8,0,4,0,Unfurnished,Independent House,West,Ulkanagari,11649408
+3230,4,1,10,3,2,20,Furnished,Independent House,North,Ulkanagari,21365003
+2696,2,4,4,0,5,3,Furnished,Independent House,South,Harsul,10870001
+3125,5,1,7,0,2,15,Furnished,Independent House,South,Padegaon,13122627
+2363,3,1,0,2,2,7,Furnished,Apartment,South,Garkheda,13033591
+3033,2,4,2,1,0,16,Furnished,Apartment,South,Ulkanagari,19696805
+630,1,1,28,0,3,5,Unfurnished,Apartment,West,Beed Bypass,2847526
+2088,5,1,19,2,2,14,Semi-Furnished,Villa,North,N-1,11125286
+3690,5,1,22,1,1,4,Unfurnished,Villa,North,Padegaon,15406573
+945,3,3,21,3,5,20,Semi-Furnished,Apartment,South,Railway Station,5769759
+2272,2,2,26,1,5,8,Unfurnished,Villa,South,Seven Hills,13750341
+3002,1,4,15,3,0,20,Unfurnished,Independent House,East,CIDCO,15460426
+1554,1,3,23,1,2,5,Unfurnished,Villa,North,Satara Parisar,7385076
+2111,1,1,1,2,0,8,Unfurnished,Independent House,West,Osmanpura,13086464
+1549,5,3,0,0,2,14,Semi-Furnished,Apartment,North,Jyoti Nagar,10060675
+3940,2,1,13,1,4,3,Furnished,Apartment,North,N-3,19952256
+1442,1,4,18,0,0,4,Furnished,Independent House,South,Ulkanagari,9858447
+2305,3,3,11,3,2,10,Semi-Furnished,Apartment,South,N-1,11112855
+3672,2,4,21,2,0,4,Furnished,Independent House,South,Osmanpura,22321079
+3512,3,3,17,3,3,0,Unfurnished,Independent House,East,Jyoti Nagar,21919036
+3804,4,1,5,0,4,13,Unfurnished,Independent House,South,CIDCO,19344009
+468,5,3,1,1,3,0,Unfurnished,Independent House,North,Harsul,2708277
+2712,3,4,21,0,3,17,Furnished,Independent House,East,Beed Bypass,13602117
+2142,2,1,1,1,1,4,Semi-Furnished,Apartment,East,Waluj,7552034
+2162,4,3,26,2,1,1,Unfurnished,Villa,South,Garkheda,12446775
+3083,2,3,22,2,2,14,Semi-Furnished,Villa,East,Shahnoorwadi,17623742
+1045,3,3,1,1,4,1,Semi-Furnished,Villa,West,Harsul,5473950
+522,1,4,15,1,0,3,Furnished,Independent House,East,N-1,3344960
+3092,2,1,9,0,2,18,Unfurnished,Villa,South,N-1,15338633
+2911,1,1,27,0,0,12,Furnished,Apartment,East,N-1,13348262
+2370,2,4,8,0,5,9,Semi-Furnished,Independent House,East,Seven Hills,14079289
+2268,2,3,19,2,4,14,Furnished,Apartment,North,Waluj,8025570
+3412,4,1,10,0,0,9,Semi-Furnished,Apartment,South,Satara Parisar,14793952
+3254,4,3,30,0,0,13,Unfurnished,Villa,South,Garkheda,17857735
+2700,5,2,2,1,1,0,Furnished,Independent House,West,Chikalthana,12026214
+2123,2,2,30,2,3,12,Semi-Furnished,Villa,West,N-3,11857932
+1464,3,2,7,2,5,9,Unfurnished,Apartment,East,N-3,7895842
+744,1,4,27,0,5,4,Unfurnished,Independent House,South,Garkheda,4557969
+812,3,4,5,1,3,17,Furnished,Apartment,North,Garkheda,5427526
+3009,3,2,24,0,3,6,Unfurnished,Villa,West,N-1,14742351
+3728,1,3,2,1,5,17,Unfurnished,Apartment,West,N-3,19058996
+1457,5,1,16,1,3,20,Semi-Furnished,Villa,North,Ulkanagari,10822950
+2069,3,3,3,0,0,3,Furnished,Independent House,North,Ulkanagari,13939798
+2287,5,4,13,1,0,9,Semi-Furnished,Villa,South,CIDCO,12408008
+1686,5,1,5,2,4,2,Furnished,Independent House,East,N-2,9476745
+536,1,4,22,3,2,8,Unfurnished,Villa,East,Ulkanagari,4420399
+3893,5,1,22,3,4,1,Unfurnished,Independent House,South,CIDCO,19559325
+1170,3,4,9,2,5,9,Furnished,Villa,South,Garkheda,8176688
+1707,4,3,13,2,5,18,Semi-Furnished,Villa,West,Beed Bypass,9755642
+1982,1,3,0,1,0,18,Furnished,Independent House,South,Harsul,8125473
+898,5,2,1,2,4,0,Semi-Furnished,Apartment,South,Harsul,4142044
+3057,1,1,28,0,1,16,Furnished,Apartment,East,Railway Station,15560954
+1480,2,1,6,0,0,16,Semi-Furnished,Apartment,North,Osmanpura,8822142
+3038,5,3,25,3,0,8,Unfurnished,Apartment,East,Chikalthana,12720192
+2996,4,3,21,0,5,18,Furnished,Independent House,East,Ulkanagari,20067174
+1348,3,1,13,1,0,7,Semi-Furnished,Villa,South,Chikalthana,6776297
+3031,4,3,24,3,3,14,Unfurnished,Apartment,East,Garkheda,16471820
+3054,4,4,28,2,1,2,Furnished,Villa,West,Padegaon,12986295
+2556,4,3,27,3,2,10,Furnished,Independent House,North,Garkheda,14567621
+1729,1,1,27,2,3,1,Unfurnished,Villa,South,N-1,8706211
+3722,2,2,4,3,4,6,Semi-Furnished,Apartment,North,N-2,18553562
+493,5,3,6,3,0,5,Unfurnished,Independent House,East,Chikalthana,3119574
+1440,3,1,25,3,1,4,Unfurnished,Independent House,West,Seven Hills,8451811
+2155,5,1,10,1,2,7,Unfurnished,Villa,West,Shahnoorwadi,12788486
+3728,1,2,1,1,3,18,Semi-Furnished,Villa,West,Railway Station,20171701
+3002,3,2,2,1,4,0,Semi-Furnished,Apartment,South,Padegaon,12364188
+1372,4,3,21,1,4,14,Furnished,Villa,North,N-3,8684543
+1813,2,1,19,3,0,7,Unfurnished,Apartment,North,N-3,9247608
+854,3,3,4,3,5,17,Semi-Furnished,Apartment,South,Padegaon,4444586
+904,5,2,17,1,2,0,Semi-Furnished,Apartment,South,N-3,5122247
+2524,4,4,10,0,2,9,Furnished,Apartment,North,Osmanpura,15591646
+3921,5,1,16,2,3,10,Furnished,Apartment,North,Jyoti Nagar,24370589
+2496,4,4,20,2,5,5,Furnished,Independent House,South,Railway Station,14027350
+2704,3,2,2,2,4,20,Unfurnished,Independent House,North,N-1,13575468
+2014,3,3,1,1,4,10,Unfurnished,Villa,North,Jyoti Nagar,13826885
+1443,4,1,30,2,4,18,Unfurnished,Independent House,South,Railway Station,7931691
+2394,3,4,10,0,1,17,Furnished,Villa,East,Shahnoorwadi,14472526
+1898,3,3,24,0,5,9,Semi-Furnished,Villa,East,Satara Parisar,9476787
+2690,4,2,21,1,0,13,Semi-Furnished,Independent House,South,Chikalthana,11673336
+824,3,3,14,3,5,19,Semi-Furnished,Independent House,North,Ulkanagari,6350204
+2307,5,1,5,1,3,10,Furnished,Independent House,South,Beed Bypass,12178393
+1375,1,4,19,3,5,10,Furnished,Apartment,North,Harsul,5849190
+1654,1,3,18,3,4,9,Unfurnished,Villa,North,Beed Bypass,8960548
+2863,4,4,6,0,3,16,Unfurnished,Independent House,West,Padegaon,12162558
+2861,2,2,26,3,1,5,Semi-Furnished,Villa,East,Osmanpura,17973068
+2490,4,4,22,3,2,13,Unfurnished,Independent House,South,Seven Hills,14802347
+1086,5,4,3,0,1,3,Furnished,Independent House,South,N-3,6610286
+2329,2,3,22,2,3,13,Semi-Furnished,Apartment,South,N-3,11951229
+1897,3,4,15,3,5,16,Unfurnished,Villa,North,Seven Hills,12268584
+2681,2,1,21,0,0,15,Semi-Furnished,Villa,South,Beed Bypass,13271216
+1872,2,3,14,2,4,16,Unfurnished,Independent House,North,Ulkanagari,12710575
+2698,4,4,5,2,3,6,Unfurnished,Villa,South,Chikalthana,12515246
+636,1,4,29,3,4,12,Unfurnished,Apartment,East,N-3,3482372
+1466,4,2,13,2,5,3,Furnished,Apartment,East,N-3,8257806
+1895,4,1,29,2,3,2,Unfurnished,Independent House,West,Chikalthana,8341741
+3105,5,2,7,2,5,5,Semi-Furnished,Villa,West,Osmanpura,20030223
+1148,4,1,26,2,4,4,Semi-Furnished,Apartment,North,Waluj,4390190
+1215,5,2,19,2,5,3,Unfurnished,Apartment,North,Seven Hills,7386220
+725,4,1,16,1,3,0,Unfurnished,Villa,East,Railway Station,4731279
+3579,2,3,12,2,5,7,Furnished,Independent House,North,Ulkanagari,23556894
+3750,1,4,24,0,1,17,Furnished,Apartment,West,Satara Parisar,16136591
+947,5,2,29,1,4,10,Unfurnished,Independent House,East,Chikalthana,4794558
+3346,3,4,14,0,3,9,Furnished,Apartment,North,CIDCO,16972328
+2805,1,2,14,0,3,2,Furnished,Independent House,South,Waluj,9940783
+2256,4,1,12,1,0,7,Furnished,Independent House,South,CIDCO,11882234
+3753,2,2,18,2,2,16,Unfurnished,Independent House,East,Beed Bypass,18151998
+2041,2,2,4,0,2,7,Unfurnished,Apartment,North,Jyoti Nagar,12576455
+1266,5,3,1,2,2,6,Furnished,Apartment,West,N-3,7167451
+2023,5,3,19,3,5,16,Furnished,Independent House,East,Railway Station,11846088
+1701,4,2,18,1,3,2,Semi-Furnished,Villa,South,CIDCO,9442761
+659,1,3,11,3,1,3,Semi-Furnished,Villa,East,Harsul,3851563
+633,4,3,23,2,5,12,Unfurnished,Villa,West,Osmanpura,5381353
+3417,2,1,25,3,1,18,Furnished,Apartment,North,Chikalthana,14160776
+720,3,4,8,0,3,14,Semi-Furnished,Villa,North,Shahnoorwadi,5399987
+536,1,2,24,1,5,2,Semi-Furnished,Apartment,East,Railway Station,2923525
+1942,5,1,19,1,4,14,Semi-Furnished,Independent House,West,Harsul,7769901
+3546,5,4,24,1,4,5,Unfurnished,Villa,South,Shahnoorwadi,20480150
+920,4,3,17,0,3,2,Semi-Furnished,Villa,South,Osmanpura,6985647
+3763,2,1,19,0,2,4,Semi-Furnished,Apartment,East,N-2,17956867
+892,5,2,28,0,0,15,Semi-Furnished,Apartment,South,Jyoti Nagar,5782539
+2605,4,3,25,0,2,7,Furnished,Apartment,East,Waluj,8879646
+3195,5,4,14,1,3,11,Unfurnished,Villa,West,Beed Bypass,16357820
+2608,1,1,24,2,1,9,Unfurnished,Villa,East,N-3,13584818
+2478,1,1,21,1,4,16,Semi-Furnished,Apartment,South,Padegaon,9846916
+3271,3,2,13,2,4,14,Semi-Furnished,Apartment,North,Ulkanagari,20962704
+2912,5,4,2,3,5,4,Semi-Furnished,Independent House,East,Garkheda,16919097
+3526,2,4,5,1,2,17,Semi-Furnished,Apartment,East,Padegaon,14028629
+2510,4,3,14,2,2,14,Furnished,Apartment,North,N-1,12384570
+2619,4,4,23,0,4,16,Furnished,Villa,West,CIDCO,14214906
+1249,4,1,5,1,5,4,Furnished,Villa,West,N-1,7557683
+636,4,4,29,3,4,12,Semi-Furnished,Villa,North,Beed Bypass,4637062
+620,1,3,12,1,3,18,Furnished,Independent House,East,Chikalthana,3487218
+3295,2,2,17,1,4,20,Unfurnished,Villa,South,Garkheda,18356034
+3903,5,3,4,1,5,13,Unfurnished,Villa,West,Seven Hills,23191099
+2363,1,1,9,3,5,15,Furnished,Villa,North,Seven Hills,14786294
+1260,1,4,3,2,3,16,Unfurnished,Villa,East,N-3,7670474
+1666,4,2,15,2,2,12,Furnished,Independent House,North,Waluj,6458835
+2573,1,2,16,2,0,8,Furnished,Independent House,North,Harsul,9879488
+3568,4,4,22,1,0,1,Unfurnished,Villa,East,Seven Hills,20668253
+1466,2,2,22,2,0,13,Furnished,Independent House,West,Osmanpura,9235146
+1996,5,1,21,0,0,1,Unfurnished,Independent House,West,Jyoti Nagar,12672039
+690,3,2,2,0,2,15,Semi-Furnished,Apartment,South,Jyoti Nagar,4796078
+688,2,4,27,0,3,6,Semi-Furnished,Independent House,West,Harsul,2973766
+2569,4,4,12,1,2,16,Furnished,Apartment,East,N-1,12519944
+969,5,2,15,3,3,14,Unfurnished,Independent House,North,Chikalthana,5265733
+1419,5,4,27,0,4,2,Furnished,Villa,West,Ulkanagari,10645108
+513,5,3,22,3,4,19,Unfurnished,Independent House,North,N-1,3364469
+3415,2,1,21,3,5,12,Furnished,Villa,West,Ulkanagari,22961450
+1279,5,4,21,3,3,14,Unfurnished,Villa,North,N-3,8012009
+3637,1,4,8,3,3,17,Semi-Furnished,Apartment,South,Jyoti Nagar,22491748
+727,2,4,28,3,1,12,Semi-Furnished,Apartment,West,Satara Parisar,3737291
+1620,2,2,30,3,2,20,Unfurnished,Villa,North,Garkheda,9605738
+2357,2,2,1,3,0,15,Semi-Furnished,Villa,East,Jyoti Nagar,15628831
+2626,3,3,20,3,1,14,Semi-Furnished,Villa,East,CIDCO,14149258
+1821,1,3,27,0,1,6,Semi-Furnished,Independent House,South,N-1,8732583
+3028,2,3,7,1,2,10,Unfurnished,Villa,South,Osmanpura,19143153
+3292,1,2,1,0,1,19,Semi-Furnished,Apartment,South,Seven Hills,18728209
+1257,1,1,23,0,5,9,Furnished,Apartment,West,Chikalthana,5515636
+634,4,2,10,2,0,15,Semi-Furnished,Independent House,East,Garkheda,4464487
+3594,4,2,8,1,0,1,Furnished,Independent House,East,N-1,17433119
+2487,3,2,30,0,5,1,Unfurnished,Villa,South,N-2,12618983
+2622,5,2,13,1,4,17,Semi-Furnished,Independent House,South,Shahnoorwadi,15234053
+2489,4,1,3,1,5,15,Unfurnished,Apartment,South,CIDCO,12599764
+613,4,2,5,2,4,15,Furnished,Apartment,South,Beed Bypass,4167506
+1935,4,4,16,0,5,6,Semi-Furnished,Villa,South,Railway Station,11421782
+1005,2,1,12,2,3,7,Furnished,Independent House,North,Jyoti Nagar,7087936
+1718,3,1,27,2,5,7,Unfurnished,Villa,South,Osmanpura,11310336
+775,1,3,21,1,4,4,Furnished,Apartment,South,CIDCO,4413571
+2328,3,3,14,1,2,15,Furnished,Independent House,North,CIDCO,12522430
+2555,5,3,0,0,1,19,Semi-Furnished,Apartment,South,CIDCO,13285378
+2685,3,1,26,3,3,19,Unfurnished,Apartment,North,N-1,12502198
+3623,3,1,10,0,4,19,Furnished,Apartment,East,Jyoti Nagar,22708130
+2485,2,2,15,2,1,10,Unfurnished,Apartment,South,Chikalthana,10138014
+2932,4,3,30,2,5,10,Semi-Furnished,Independent House,North,Jyoti Nagar,18824341
+3107,3,3,5,1,3,5,Unfurnished,Independent House,South,CIDCO,15730066
+2549,3,3,28,3,0,11,Semi-Furnished,Independent House,West,Shahnoorwadi,14366134
+2102,5,2,20,3,0,12,Unfurnished,Apartment,West,N-1,10066434
+1953,1,3,13,1,2,8,Furnished,Apartment,North,Jyoti Nagar,12475766
+762,2,1,21,0,2,0,Semi-Furnished,Independent House,North,Railway Station,4235354
+1169,4,1,12,2,5,18,Semi-Furnished,Independent House,North,Harsul,5307755
+3767,4,2,5,3,0,9,Furnished,Independent House,East,Railway Station,20271720
+779,2,1,6,3,4,17,Semi-Furnished,Villa,South,CIDCO,5593211
+3446,4,2,3,0,3,10,Semi-Furnished,Independent House,South,CIDCO,17589765
+3699,1,1,2,3,4,18,Semi-Furnished,Villa,North,Padegaon,15823088
+1629,4,1,15,2,2,3,Unfurnished,Apartment,North,Chikalthana,6901109
+3560,1,4,29,1,5,10,Semi-Furnished,Independent House,South,Satara Parisar,15711700
+706,2,2,22,1,4,5,Semi-Furnished,Independent House,North,N-2,4166985
+3104,5,2,24,1,0,9,Unfurnished,Independent House,West,Satara Parisar,13840500
+1293,5,1,10,1,4,14,Semi-Furnished,Villa,East,Shahnoorwadi,8525285
+2756,3,2,11,1,4,0,Furnished,Villa,West,Jyoti Nagar,18232283
+1340,2,4,16,1,4,1,Furnished,Independent House,West,Chikalthana,6658046
+2152,4,4,27,2,0,8,Semi-Furnished,Apartment,West,N-2,10499852
+2027,5,4,26,1,2,6,Semi-Furnished,Villa,North,Harsul,8473542
+1812,2,4,28,2,2,5,Furnished,Independent House,East,Osmanpura,11421142
+2619,4,3,3,2,4,2,Unfurnished,Villa,South,Ulkanagari,18101554
+2506,4,2,12,0,0,6,Furnished,Villa,West,Garkheda,14550389
+3929,1,1,11,0,1,10,Semi-Furnished,Apartment,East,Shahnoorwadi,20976324
+3986,4,2,13,3,5,8,Unfurnished,Villa,North,N-3,21174004
+1900,1,2,29,0,2,13,Semi-Furnished,Villa,South,Harsul,7631023
+3489,4,4,0,3,5,1,Furnished,Independent House,South,N-3,18743923
+2265,5,1,4,0,3,17,Furnished,Independent House,West,Seven Hills,13894914
+3310,2,3,30,3,4,17,Furnished,Apartment,North,Jyoti Nagar,20457650
+484,5,2,13,1,5,12,Unfurnished,Apartment,North,Jyoti Nagar,3791038
+3223,3,2,11,2,3,0,Furnished,Villa,South,Railway Station,17817428
+2907,3,2,30,2,5,12,Semi-Furnished,Villa,South,Chikalthana,13100111
+868,4,1,13,3,3,20,Semi-Furnished,Apartment,East,Waluj,3755048
+2119,3,4,22,2,2,12,Furnished,Independent House,North,Harsul,8749860
+2390,1,3,22,2,4,11,Semi-Furnished,Villa,North,Beed Bypass,12334834
+1131,2,4,19,2,5,8,Unfurnished,Apartment,East,Beed Bypass,5603759
+2062,1,3,19,0,5,20,Unfurnished,Apartment,West,Waluj,6903885
+3852,1,1,5,1,4,10,Semi-Furnished,Independent House,South,Osmanpura,23545438
+1828,1,4,18,1,0,19,Unfurnished,Apartment,North,CIDCO,8838899
+602,5,1,27,1,2,1,Unfurnished,Independent House,East,Chikalthana,3194298
+3338,1,2,18,0,1,15,Furnished,Independent House,West,Ulkanagari,21517044
+2107,1,4,10,2,1,9,Semi-Furnished,Apartment,South,Waluj,7407278
+965,1,1,8,1,3,16,Furnished,Villa,East,N-2,6030002
+3782,4,3,17,2,1,12,Semi-Furnished,Apartment,West,Waluj,12845610
+640,1,2,20,2,2,4,Unfurnished,Independent House,East,N-1,3522231
+1102,4,1,9,3,0,19,Furnished,Independent House,West,Satara Parisar,5945671
+1960,5,3,28,1,1,18,Unfurnished,Villa,North,Shahnoorwadi,11599462
+658,5,2,24,0,1,6,Semi-Furnished,Villa,West,Osmanpura,5154713
+3620,2,3,21,3,4,18,Semi-Furnished,Villa,South,Harsul,14158773
+593,1,4,14,0,3,2,Furnished,Independent House,East,N-3,4054263
+2964,1,1,15,2,5,7,Furnished,Independent House,South,Chikalthana,12996730
+2027,1,3,12,0,2,9,Semi-Furnished,Apartment,West,N-3,10319144
+3647,1,3,16,1,2,18,Semi-Furnished,Independent House,South,Osmanpura,21849986
+1639,5,2,18,1,4,6,Semi-Furnished,Villa,South,Chikalthana,8233087
+1532,1,1,0,0,5,3,Furnished,Villa,North,Ulkanagari,11149623
+1992,3,1,26,3,5,6,Furnished,Apartment,North,Jyoti Nagar,12578185
+2358,1,2,30,3,4,8,Furnished,Villa,East,Osmanpura,15124015
+2721,3,4,14,1,2,19,Semi-Furnished,Villa,South,Railway Station,15220163
+1497,4,3,17,1,5,13,Semi-Furnished,Villa,North,N-3,9161830
+2768,2,4,22,3,2,14,Unfurnished,Apartment,West,Beed Bypass,13272719
+2174,4,1,12,0,1,14,Semi-Furnished,Apartment,East,Garkheda,11913702
+1950,5,1,5,1,2,1,Unfurnished,Apartment,West,Osmanpura,11852204
+2803,2,4,16,2,0,15,Semi-Furnished,Villa,West,N-1,14109856
+2408,2,2,5,0,0,4,Unfurnished,Villa,East,N-2,12313935
+2186,5,2,24,1,0,10,Semi-Furnished,Independent House,West,Garkheda,12403686
+606,3,2,0,1,0,0,Unfurnished,Apartment,West,Jyoti Nagar,3899066
+2017,1,4,9,0,3,5,Semi-Furnished,Independent House,North,Seven Hills,12206283
+1529,1,1,23,1,5,12,Unfurnished,Apartment,North,Satara Parisar,6519852
+875,1,3,17,2,5,18,Semi-Furnished,Independent House,West,N-1,5171462
+2568,2,2,6,3,5,0,Semi-Furnished,Apartment,South,Jyoti Nagar,16382260
+2971,1,3,14,3,1,18,Furnished,Independent House,South,N-3,15813555
+3586,1,1,23,3,2,2,Semi-Furnished,Independent House,East,Jyoti Nagar,22136779
+2623,5,3,8,1,1,0,Furnished,Independent House,South,Railway Station,14415693
+847,1,3,13,3,5,2,Furnished,Villa,East,Shahnoorwadi,6106181
+3635,5,1,19,0,4,5,Unfurnished,Apartment,North,CIDCO,17748514
+3286,5,4,11,2,4,7,Semi-Furnished,Apartment,South,Seven Hills,19018127
+2668,1,1,26,2,3,20,Furnished,Villa,West,Padegaon,11387596
+2949,3,2,9,1,4,16,Unfurnished,Independent House,West,Waluj,10403803
+578,5,2,5,2,1,5,Unfurnished,Apartment,North,Ulkanagari,4425342
+1517,3,2,0,2,3,12,Furnished,Villa,East,N-2,9274344
+3651,2,1,15,2,5,15,Semi-Furnished,Apartment,West,Osmanpura,21804018
+2328,5,2,0,0,0,6,Furnished,Independent House,South,Jyoti Nagar,15304646
+1066,1,1,13,3,5,6,Semi-Furnished,Villa,West,Garkheda,7301893
+2213,5,2,27,0,0,9,Furnished,Villa,North,Seven Hills,13614774
+2433,4,4,15,0,5,16,Semi-Furnished,Villa,West,Garkheda,14442326
+3813,2,3,12,2,0,0,Furnished,Independent House,East,N-2,18893547
+876,5,2,8,0,5,0,Unfurnished,Apartment,East,Garkheda,5270047
+1338,4,2,23,0,3,16,Unfurnished,Apartment,West,Chikalthana,5626229
+617,2,3,20,0,1,9,Unfurnished,Apartment,West,Seven Hills,3729211
+2598,5,2,16,0,5,16,Unfurnished,Villa,South,Harsul,10634706
+2762,5,3,26,2,3,4,Furnished,Villa,West,Padegaon,12039979
+3954,2,4,20,2,1,0,Semi-Furnished,Villa,East,Shahnoorwadi,22471128
+3085,1,4,30,2,2,16,Furnished,Independent House,North,Beed Bypass,15034315
+2248,4,4,23,0,5,0,Unfurnished,Apartment,West,Chikalthana,9332679
+2939,5,3,27,1,3,15,Furnished,Apartment,West,Jyoti Nagar,18474705
+539,1,2,24,0,3,2,Unfurnished,Independent House,North,Garkheda,3277467
+3807,1,4,25,3,0,12,Semi-Furnished,Independent House,West,Shahnoorwadi,20926077
+3158,4,4,3,3,1,9,Unfurnished,Villa,North,Ulkanagari,21395191
+1853,2,4,19,2,5,2,Furnished,Independent House,South,N-1,9725449
+3281,3,2,11,0,5,5,Unfurnished,Independent House,West,Shahnoorwadi,18387103
+572,5,3,7,2,2,5,Furnished,Apartment,North,N-2,3832743
+3144,3,1,10,2,2,4,Furnished,Apartment,East,Waluj,10911054
+1860,5,2,16,1,4,7,Unfurnished,Apartment,North,N-3,9656311
+2091,5,3,22,1,5,9,Semi-Furnished,Villa,West,Garkheda,12791656
+3019,2,1,16,2,5,18,Unfurnished,Villa,South,Seven Hills,18002245
+2603,5,2,24,3,1,4,Furnished,Independent House,South,Railway Station,14257665
+1315,5,3,10,2,0,11,Unfurnished,Independent House,South,Jyoti Nagar,8814411
+3830,4,2,20,3,3,9,Unfurnished,Independent House,South,Shahnoorwadi,21448201
+927,4,4,22,2,0,0,Semi-Furnished,Independent House,West,Shahnoorwadi,5953153
+3053,2,3,29,1,5,16,Furnished,Independent House,West,Seven Hills,17788283
+3209,5,4,5,0,0,6,Unfurnished,Villa,West,Shahnoorwadi,18597931
+1771,3,2,13,0,3,9,Semi-Furnished,Independent House,East,Jyoti Nagar,11654366
+1187,1,4,7,1,4,6,Unfurnished,Apartment,West,Harsul,4848636
+2726,2,4,2,2,1,17,Semi-Furnished,Independent House,South,Beed Bypass,13817132
+2015,4,1,9,2,3,16,Furnished,Independent House,West,N-1,10382276
+1392,5,4,24,3,1,18,Semi-Furnished,Apartment,West,Chikalthana,6401488
+2637,2,1,24,3,1,15,Unfurnished,Independent House,West,Ulkanagari,16845338
+2270,3,2,7,2,1,11,Semi-Furnished,Villa,South,Ulkanagari,15776732
+3479,4,2,30,0,1,11,Furnished,Independent House,South,Waluj,11941807
+3280,5,1,4,2,1,19,Unfurnished,Apartment,East,Padegaon,13026654
+1835,4,4,2,2,3,20,Semi-Furnished,Apartment,South,Jyoti Nagar,12142537
+3454,5,3,28,0,4,12,Unfurnished,Villa,North,Beed Bypass,17368204
+1112,3,4,29,0,3,7,Furnished,Apartment,West,Shahnoorwadi,6340979
+2075,5,4,15,0,3,8,Unfurnished,Independent House,South,Osmanpura,12977076
+2979,2,1,6,1,4,15,Semi-Furnished,Independent House,North,Seven Hills,17532489
+3333,5,1,6,3,0,7,Unfurnished,Villa,West,Jyoti Nagar,21458824
+1104,5,1,18,1,2,9,Semi-Furnished,Villa,West,Chikalthana,5824471
+1253,1,3,11,1,3,4,Furnished,Apartment,East,Jyoti Nagar,8208378
+1983,1,3,1,0,5,3,Unfurnished,Apartment,North,Ulkanagari,12892878
+3549,2,4,11,3,4,1,Semi-Furnished,Apartment,North,Railway Station,18724479
+700,3,4,2,1,1,6,Semi-Furnished,Apartment,West,N-3,4003494
+1623,4,1,26,0,3,6,Furnished,Independent House,East,Beed Bypass,8550878
+2879,3,3,1,2,0,15,Unfurnished,Villa,East,Harsul,11783270
+3973,4,2,3,2,5,16,Semi-Furnished,Independent House,East,Railway Station,21465307
+1784,5,4,3,2,3,20,Furnished,Villa,South,Chikalthana,9371388
+3414,1,2,4,0,2,12,Semi-Furnished,Independent House,West,N-1,16082635
+1941,4,3,12,3,0,11,Unfurnished,Villa,West,Garkheda,11450436
+504,2,4,9,0,4,6,Unfurnished,Independent House,West,Seven Hills,3814061
+1917,3,1,7,0,3,16,Furnished,Independent House,East,Railway Station,10841312
+518,2,1,29,2,3,7,Semi-Furnished,Villa,North,N-1,3547889
+2319,1,2,28,2,0,3,Semi-Furnished,Independent House,North,N-3,11880132
+1346,2,3,20,3,5,19,Semi-Furnished,Independent House,East,N-2,7724076
+2003,1,1,18,3,0,0,Unfurnished,Villa,West,Osmanpura,12643424
+1001,3,1,30,0,5,12,Furnished,Apartment,West,Chikalthana,4362486
+1671,3,1,12,0,0,16,Unfurnished,Independent House,North,Satara Parisar,7760006
+2539,3,4,8,0,2,14,Semi-Furnished,Villa,West,N-1,13004670
+2002,5,3,17,0,5,6,Unfurnished,Villa,South,Beed Bypass,10735883
+2471,1,1,29,3,3,8,Furnished,Independent House,East,Seven Hills,14487668
+1172,4,2,16,1,2,2,Furnished,Apartment,East,Harsul,4656655
+2749,1,3,27,3,3,2,Semi-Furnished,Villa,North,Ulkanagari,18336123
+3842,5,1,12,0,1,14,Furnished,Villa,South,Satara Parisar,17773813
+1619,3,4,17,2,0,17,Semi-Furnished,Villa,West,Garkheda,9931449
+1511,3,3,8,2,0,13,Furnished,Villa,North,N-2,8805057
+2655,4,3,19,3,0,11,Semi-Furnished,Villa,West,Chikalthana,12081707
+1342,4,3,23,0,0,6,Unfurnished,Villa,South,Seven Hills,8489652
+2093,2,2,5,3,3,6,Semi-Furnished,Independent House,West,Harsul,8358161
+1581,2,1,3,2,5,8,Furnished,Villa,South,Satara Parisar,8656529
+1159,2,2,12,1,2,1,Furnished,Independent House,West,N-2,6243477
+1889,3,3,21,1,1,18,Furnished,Apartment,South,Chikalthana,8352164
+1849,2,4,9,2,0,19,Semi-Furnished,Villa,East,Seven Hills,11847196
+1166,3,1,23,1,3,2,Furnished,Apartment,East,Beed Bypass,5914663
+759,3,3,23,3,0,7,Unfurnished,Independent House,West,Ulkanagari,5489130
+2759,1,4,7,0,2,16,Unfurnished,Independent House,East,Ulkanagari,17741267
+515,4,4,10,2,1,14,Furnished,Villa,North,Osmanpura,4913699
+891,4,4,4,3,4,8,Unfurnished,Apartment,East,Shahnoorwadi,5781395
+1419,1,1,7,1,4,2,Furnished,Apartment,West,Jyoti Nagar,9181717
+3336,5,4,9,1,3,1,Furnished,Villa,North,Ulkanagari,22666894
+1539,1,3,19,0,1,17,Unfurnished,Villa,North,Railway Station,8649034
+2823,5,3,26,1,5,5,Semi-Furnished,Independent House,South,Harsul,11070964
+2057,5,1,19,0,5,17,Furnished,Apartment,North,N-3,11052033
+2870,5,2,18,2,1,14,Semi-Furnished,Villa,South,Shahnoorwadi,17008105
+536,1,4,21,1,2,1,Semi-Furnished,Independent House,East,Waluj,2471111
+2300,5,3,27,0,4,19,Unfurnished,Villa,West,Ulkanagari,15554241
+2625,2,3,20,2,5,4,Furnished,Independent House,East,Harsul,10484635
+2651,3,1,28,1,4,18,Furnished,Independent House,North,Jyoti Nagar,16872965
+1915,3,3,0,0,5,13,Semi-Furnished,Villa,South,Jyoti Nagar,13327646
+787,3,1,30,2,2,6,Unfurnished,Apartment,North,N-3,3957358
+3200,3,2,17,1,3,9,Unfurnished,Apartment,West,Garkheda,16989283
+679,5,3,9,1,3,3,Semi-Furnished,Apartment,East,Harsul,3171745
+3505,1,3,9,0,5,20,Unfurnished,Independent House,West,Shahnoorwadi,19707333
+2057,5,2,14,2,0,15,Unfurnished,Villa,South,Harsul,8834906
+974,3,1,1,1,2,5,Semi-Furnished,Independent House,West,N-3,5806776
+2380,1,1,6,3,5,20,Furnished,Independent House,North,Beed Bypass,12363405
+2528,2,1,28,3,0,14,Semi-Furnished,Independent House,West,Chikalthana,10795349
+998,1,4,28,3,5,15,Semi-Furnished,Villa,West,CIDCO,6181976
+3770,3,4,12,1,4,18,Unfurnished,Villa,South,Beed Bypass,18988428
+3910,2,3,9,3,0,13,Semi-Furnished,Apartment,East,CIDCO,19318494
+3339,2,4,24,1,4,2,Semi-Furnished,Apartment,West,N-3,16811504
+2051,2,2,17,2,1,11,Semi-Furnished,Apartment,South,Satara Parisar,8886783
+1685,1,1,16,2,0,20,Unfurnished,Independent House,East,Harsul,6573785
+3320,3,4,21,3,3,12,Semi-Furnished,Apartment,East,Seven Hills,19133146
+2009,4,4,15,3,2,16,Furnished,Independent House,North,Chikalthana,9647974
+3258,2,3,0,2,1,18,Furnished,Apartment,North,Ulkanagari,21320105
+1548,2,2,6,0,1,17,Furnished,Villa,North,Satara Parisar,7896530
+2504,1,2,0,0,1,8,Furnished,Villa,South,N-1,12633715
+2995,5,4,27,0,0,2,Semi-Furnished,Independent House,South,Chikalthana,12936065
+3092,1,1,18,1,2,12,Unfurnished,Apartment,South,N-1,13978835
+3189,5,2,17,3,0,17,Semi-Furnished,Independent House,East,N-1,15553307
+2088,5,2,25,0,0,15,Furnished,Villa,East,Padegaon,9497400
+550,2,4,15,1,5,0,Furnished,Independent House,North,Harsul,3282962
+2453,2,3,8,2,2,4,Semi-Furnished,Apartment,North,Padegaon,9863246
+1485,3,1,16,1,1,9,Furnished,Apartment,East,Ulkanagari,9888849
+1906,1,4,3,1,0,17,Semi-Furnished,Apartment,North,N-3,9859815
+1131,5,3,28,3,1,17,Unfurnished,Apartment,South,Satara Parisar,5313527
+524,3,3,17,1,1,5,Unfurnished,Independent House,West,Chikalthana,2966288
+3834,5,4,22,1,0,19,Unfurnished,Independent House,South,N-2,18737533
+2054,5,1,9,3,0,2,Semi-Furnished,Independent House,South,Osmanpura,12920689
+3194,5,2,8,1,1,2,Semi-Furnished,Apartment,North,Ulkanagari,20687435
+3172,1,2,28,1,0,11,Furnished,Villa,West,Ulkanagari,20809037
+2054,2,2,11,1,2,1,Unfurnished,Independent House,North,N-3,10928933
+846,3,2,24,1,4,5,Furnished,Independent House,East,Seven Hills,5536723
+2482,4,2,10,2,1,17,Unfurnished,Independent House,South,Jyoti Nagar,16033646
+2878,4,2,7,1,0,14,Unfurnished,Villa,South,Beed Bypass,14532096
+1748,5,3,14,3,2,7,Semi-Furnished,Villa,West,Seven Hills,11460028
+616,4,1,0,2,4,18,Unfurnished,Villa,South,Satara Parisar,4425993
+973,5,2,27,0,4,16,Semi-Furnished,Apartment,West,Harsul,4111632
+3933,1,3,22,0,2,17,Semi-Furnished,Apartment,West,Chikalthana,16079356
+3048,1,2,15,0,0,5,Semi-Furnished,Apartment,West,Padegaon,11672857
+1127,2,4,17,2,0,7,Semi-Furnished,Apartment,North,N-3,6049249
+2647,2,3,11,2,5,18,Furnished,Villa,South,Ulkanagari,18533860
+2730,2,1,22,2,0,14,Semi-Furnished,Apartment,East,Garkheda,14556789
+2628,2,4,26,1,0,18,Furnished,Independent House,North,Waluj,9338555
+582,3,3,24,1,3,4,Unfurnished,Villa,South,Shahnoorwadi,4164276
+3818,2,1,12,3,2,3,Furnished,Villa,West,Padegaon,16184572
+1380,4,3,9,0,2,15,Semi-Furnished,Apartment,South,Garkheda,7950495
+1688,2,2,30,2,1,2,Semi-Furnished,Independent House,South,Chikalthana,7408928
+1910,3,2,25,1,0,5,Furnished,Apartment,East,CIDCO,9731260
+732,2,3,5,2,3,3,Unfurnished,Apartment,North,Beed Bypass,3932593
+2229,3,4,6,3,1,13,Semi-Furnished,Villa,West,N-2,12457524
+1558,3,1,2,2,0,1,Furnished,Apartment,North,Padegaon,6454196
+2612,4,4,30,2,0,1,Unfurnished,Villa,North,Garkheda,14750646
+550,5,2,4,3,4,20,Unfurnished,Villa,East,N-3,4675065
+2106,2,2,8,0,2,0,Unfurnished,Villa,East,Ulkanagari,14114370
+1370,1,3,2,3,5,4,Semi-Furnished,Independent House,North,Ulkanagari,10014008
+3184,3,4,20,3,4,7,Semi-Furnished,Apartment,South,Chikalthana,13598403
+781,5,1,9,2,0,13,Semi-Furnished,Villa,South,Waluj,4293743
+1971,2,1,27,2,1,14,Unfurnished,Villa,East,Chikalthana,8880912
+3851,2,1,17,2,3,4,Furnished,Villa,South,Padegaon,16056110
+882,1,1,20,0,0,10,Unfurnished,Independent House,West,Satara Parisar,3918263
+3086,2,3,29,1,0,6,Semi-Furnished,Apartment,East,Railway Station,15589354
+3228,3,4,4,1,3,3,Semi-Furnished,Independent House,South,Jyoti Nagar,20579466
+1873,2,1,28,1,0,15,Furnished,Villa,West,Chikalthana,8811127
+2495,4,3,16,0,1,10,Unfurnished,Apartment,West,Garkheda,13506120
+886,5,2,2,3,5,6,Unfurnished,Villa,East,N-2,6021725
+3310,2,3,14,0,1,13,Semi-Furnished,Independent House,North,Padegaon,13309369
+3836,5,2,16,1,3,15,Unfurnished,Villa,West,Padegaon,16299665
+3558,2,1,27,2,3,9,Semi-Furnished,Villa,West,Osmanpura,22077394
+2432,3,3,16,3,3,18,Furnished,Villa,North,N-2,13270004
+2960,5,2,10,1,3,1,Furnished,Independent House,West,N-3,15937158
+508,2,3,10,3,1,7,Unfurnished,Villa,East,Padegaon,3447573
+2187,3,1,2,2,3,11,Furnished,Apartment,North,Padegaon,9489155
+524,1,1,9,2,2,15,Semi-Furnished,Apartment,South,Shahnoorwadi,3446601
+1624,5,1,3,3,5,7,Unfurnished,Apartment,North,Osmanpura,10298124
+1110,2,2,0,3,2,16,Unfurnished,Villa,North,Garkheda,7483685
+2711,3,4,3,3,4,1,Semi-Furnished,Villa,North,Railway Station,15654047
+3144,4,2,11,1,0,13,Semi-Furnished,Villa,South,N-3,16883244
+2777,2,4,14,2,2,0,Semi-Furnished,Apartment,North,Beed Bypass,13295891
+3208,5,2,10,1,1,2,Unfurnished,Independent House,South,Padegaon,13062753
+2777,2,2,12,0,3,3,Unfurnished,Apartment,East,Garkheda,14921997
+2825,2,1,4,1,3,6,Semi-Furnished,Villa,South,Padegaon,12249900
+3251,4,2,17,3,0,6,Semi-Furnished,Apartment,North,Shahnoorwadi,17891058
+2864,2,2,19,2,3,10,Furnished,Villa,North,Satara Parisar,13426213
+1763,2,3,25,0,2,17,Unfurnished,Apartment,West,Padegaon,7017675
+3290,3,3,22,2,2,7,Semi-Furnished,Villa,South,Harsul,12873333
+1378,2,3,29,1,2,4,Unfurnished,Independent House,North,Chikalthana,5913977
+3213,3,3,7,3,4,1,Unfurnished,Villa,West,CIDCO,17286257
+1187,4,3,7,0,5,0,Furnished,Independent House,South,Beed Bypass,6740636
+2652,1,3,19,0,5,7,Unfurnished,Apartment,West,Beed Bypass,12463584
+2795,2,1,23,2,2,17,Furnished,Villa,East,Osmanpura,17873691
+1151,2,2,21,2,2,2,Unfurnished,Independent House,West,Beed Bypass,5787621
+870,3,4,7,1,3,16,Unfurnished,Villa,West,Chikalthana,5110580
+3530,1,4,16,0,4,20,Semi-Furnished,Apartment,East,Seven Hills,20103757
+564,1,1,0,3,0,14,Semi-Furnished,Independent House,East,Railway Station,3687010
+1356,4,2,24,0,0,10,Semi-Furnished,Independent House,South,Satara Parisar,6195492
+2715,1,4,21,3,4,11,Furnished,Apartment,South,N-3,14169182
+3352,4,4,15,2,5,10,Unfurnished,Independent House,East,Satara Parisar,15187523
+3528,3,3,6,1,5,15,Semi-Furnished,Apartment,East,Garkheda,19399708
+1806,4,1,23,3,0,1,Unfurnished,Villa,East,Harsul,7662862
+1193,1,4,9,3,4,8,Furnished,Independent House,North,Ulkanagari,8947062
+2582,5,3,4,3,1,10,Semi-Furnished,Apartment,East,Jyoti Nagar,16350744
+1844,3,3,6,2,5,2,Semi-Furnished,Apartment,North,N-2,9658134
+3507,1,4,26,0,5,16,Semi-Furnished,Independent House,West,Chikalthana,14877383
+3928,4,2,28,0,2,17,Unfurnished,Villa,South,Beed Bypass,19078213
+2023,5,1,8,3,1,11,Furnished,Apartment,North,Waluj,7540095
+845,1,3,17,2,5,11,Furnished,Villa,West,N-3,5999363
+631,1,2,4,1,0,19,Semi-Furnished,Villa,North,Seven Hills,4859563
+1293,5,4,5,2,3,4,Furnished,Apartment,West,Chikalthana,6405981
+3567,3,4,18,1,4,17,Semi-Furnished,Villa,West,Beed Bypass,18226376
+2108,4,2,17,2,1,16,Semi-Furnished,Independent House,North,Padegaon,8962287
+3639,1,1,2,2,5,19,Semi-Furnished,Apartment,South,Shahnoorwadi,20010297
+1276,2,3,19,3,1,12,Furnished,Villa,West,Railway Station,8134471
+716,3,1,29,2,1,3,Unfurnished,Apartment,South,Beed Bypass,3372012
+1001,3,3,17,0,2,18,Furnished,Independent House,South,Beed Bypass,5814111
+1363,4,4,10,2,0,16,Unfurnished,Independent House,North,Padegaon,6253262
+3650,1,4,20,0,3,6,Furnished,Independent House,East,Satara Parisar,16415721
+2508,1,4,2,2,3,3,Unfurnished,Apartment,North,Seven Hills,14521572
+793,1,4,1,2,2,12,Furnished,Independent House,North,Harsul,4143902
+2019,4,3,28,1,4,15,Furnished,Apartment,East,Railway Station,10831836
+3437,4,3,6,1,4,4,Semi-Furnished,Apartment,West,Jyoti Nagar,21499543
+1022,2,3,24,2,2,5,Furnished,Apartment,North,Satara Parisar,5026625
+2260,4,2,5,0,0,4,Unfurnished,Independent House,North,Waluj,8051840
+1600,1,3,5,1,1,10,Unfurnished,Apartment,East,N-2,8051691
+1525,3,2,8,1,2,16,Furnished,Independent House,East,N-1,8179709
+1270,1,2,28,0,1,4,Semi-Furnished,Apartment,East,N-2,6135534
+3098,2,3,6,3,0,13,Unfurnished,Apartment,West,Chikalthana,12935949
+1081,4,1,27,3,2,18,Unfurnished,Independent House,North,Seven Hills,6987189
+2135,1,3,12,0,4,12,Furnished,Apartment,South,Padegaon,8712815
+1200,3,3,16,1,2,15,Furnished,Independent House,South,Shahnoorwadi,7562362
+850,1,1,24,2,3,10,Unfurnished,Apartment,West,Seven Hills,5059569
+2860,4,2,3,3,3,10,Furnished,Villa,North,Ulkanagari,19984636
+583,1,2,17,1,0,14,Semi-Furnished,Villa,South,Chikalthana,3670557
+702,3,2,0,3,5,3,Semi-Furnished,Independent House,North,Shahnoorwadi,5338289
+3507,3,4,19,2,0,12,Semi-Furnished,Apartment,West,Waluj,11610151
+1760,5,1,9,3,1,5,Furnished,Villa,North,N-3,10460303
+3328,3,3,12,3,3,9,Semi-Furnished,Villa,East,Satara Parisar,15550990
+1043,4,1,23,1,3,1,Furnished,Independent House,North,N-3,6021041
+1259,5,3,0,1,0,18,Semi-Furnished,Apartment,South,N-1,6782586
+2893,4,2,0,1,5,0,Semi-Furnished,Apartment,North,Ulkanagari,18900823
+3161,2,2,15,1,5,0,Unfurnished,Villa,North,Osmanpura,19630858
+2014,5,1,25,1,1,10,Furnished,Independent House,North,Seven Hills,11903629
+1165,2,2,9,3,1,18,Unfurnished,Apartment,West,Seven Hills,6878005
+3346,4,3,8,1,1,13,Unfurnished,Apartment,East,N-1,15567603
+617,5,4,8,0,5,17,Semi-Furnished,Villa,North,Waluj,3880309
+3220,5,4,0,2,4,6,Furnished,Independent House,East,Railway Station,17874009
+2711,5,1,0,1,5,14,Semi-Furnished,Villa,East,Seven Hills,16796744
+3141,5,1,12,1,4,1,Unfurnished,Independent House,North,Waluj,10906066
+3514,5,2,0,1,4,8,Furnished,Villa,North,N-2,18610336
+1979,1,3,6,3,3,8,Semi-Furnished,Villa,West,Waluj,8141516
+2290,1,3,27,1,4,1,Unfurnished,Independent House,East,Padegaon,9115148
+2320,2,4,15,0,3,3,Semi-Furnished,Independent House,South,Chikalthana,10035354
+2601,2,1,28,2,1,9,Semi-Furnished,Villa,West,CIDCO,13797510
+726,1,3,3,3,4,19,Semi-Furnished,Villa,East,Garkheda,5612563
+559,1,2,6,0,1,19,Unfurnished,Apartment,East,N-2,2852962
+989,5,3,16,0,1,12,Semi-Furnished,Villa,South,Seven Hills,6811112
+2620,1,3,8,1,4,12,Furnished,Independent House,East,N-3,14166621
+4000,1,3,19,3,0,1,Unfurnished,Apartment,South,N-1,18030941
+1339,1,3,8,1,3,9,Semi-Furnished,Villa,West,N-3,8151213
+799,2,4,9,3,3,0,Unfurnished,Independent House,East,Harsul,3860688
+3437,2,2,4,1,2,14,Semi-Furnished,Villa,North,Jyoti Nagar,22003731
+2389,5,2,24,1,1,1,Semi-Furnished,Independent House,East,Padegaon,9803354
+2027,4,1,28,1,5,3,Semi-Furnished,Villa,South,Satara Parisar,10082088
+2772,5,3,16,1,4,10,Semi-Furnished,Apartment,South,Jyoti Nagar,17523110
+3163,1,3,30,1,1,8,Furnished,Villa,East,Garkheda,17441521
+2641,1,4,12,2,0,12,Furnished,Apartment,South,Garkheda,14576727
+1276,1,4,1,1,5,7,Semi-Furnished,Apartment,East,CIDCO,7105504
+779,4,3,29,1,2,13,Semi-Furnished,Apartment,East,Chikalthana,3691370
+899,3,1,8,2,4,17,Furnished,Independent House,West,Railway Station,5974438
+2299,2,2,17,1,0,18,Furnished,Villa,North,Shahnoorwadi,13672601
+1938,4,1,13,2,0,20,Unfurnished,Villa,South,Osmanpura,12510204
+3631,3,4,7,3,2,11,Semi-Furnished,Villa,West,Shahnoorwadi,21119523
+2225,3,1,19,3,3,3,Furnished,Apartment,East,Waluj,7820043
+1549,1,1,15,3,1,5,Semi-Furnished,Apartment,North,Railway Station,8254444
+3598,2,4,20,1,1,12,Semi-Furnished,Apartment,East,Padegaon,14066748
+1841,4,3,0,0,5,12,Semi-Furnished,Villa,North,Chikalthana,9252687
+2947,1,4,10,3,3,2,Unfurnished,Independent House,South,Railway Station,15704754
+1010,3,2,0,1,2,11,Furnished,Independent House,North,Padegaon,5342620
+3327,4,2,13,3,5,13,Unfurnished,Independent House,South,Jyoti Nagar,21095222
+2175,1,4,21,3,0,18,Semi-Furnished,Independent House,South,CIDCO,11171583
+2266,1,2,24,2,4,7,Semi-Furnished,Apartment,South,Harsul,8184328
+3159,3,2,21,1,3,17,Furnished,Apartment,West,Osmanpura,19146313
+498,1,3,24,2,2,16,Unfurnished,Villa,North,Harsul,3034454
+3366,4,2,19,0,2,8,Semi-Furnished,Apartment,North,Garkheda,17861310
+2776,3,1,15,0,4,18,Unfurnished,Independent House,South,CIDCO,14149305
+1664,3,1,12,3,4,14,Furnished,Independent House,South,CIDCO,9217267
+2228,1,2,3,3,5,8,Unfurnished,Villa,South,Shahnoorwadi,13457894
+3034,4,1,24,2,0,17,Semi-Furnished,Villa,East,Osmanpura,18878755
+1825,1,2,0,0,0,7,Unfurnished,Apartment,East,Osmanpura,10759518
+970,2,4,0,1,5,13,Unfurnished,Independent House,West,Chikalthana,5084974
+1307,4,4,13,0,2,7,Semi-Furnished,Independent House,North,Seven Hills,8304046
+2200,1,4,27,2,3,13,Furnished,Apartment,West,CIDCO,11184123
+2881,1,1,25,0,3,14,Unfurnished,Independent House,South,Ulkanagari,18382183
+460,3,2,14,1,0,8,Unfurnished,Apartment,North,Shahnoorwadi,2642697
+2304,5,2,28,1,5,6,Unfurnished,Independent House,South,Shahnoorwadi,13198701
+3437,2,2,19,2,1,8,Semi-Furnished,Independent House,South,Satara Parisar,15081812
+3128,3,2,10,2,4,19,Unfurnished,Villa,East,Satara Parisar,14871289
+2878,4,3,30,0,4,7,Semi-Furnished,Villa,West,CIDCO,15092543
+727,1,1,29,1,2,17,Furnished,Independent House,West,Beed Bypass,4046021
+479,2,3,24,0,0,6,Unfurnished,Apartment,West,Osmanpura,2898538
+3286,4,2,24,2,5,12,Unfurnished,Apartment,South,CIDCO,16193307
+1184,5,2,1,3,5,18,Furnished,Independent House,North,N-3,7625068
+917,2,2,25,1,3,18,Unfurnished,Villa,East,N-3,5516681
+1309,2,4,28,0,2,11,Furnished,Villa,East,Ulkanagari,9324453
+2873,2,4,3,1,4,16,Unfurnished,Apartment,North,N-1,13805173
+3930,3,3,1,0,0,16,Semi-Furnished,Independent House,South,Osmanpura,23715122
+3098,2,2,0,0,2,3,Unfurnished,Apartment,North,Harsul,11351647
+999,2,3,23,2,1,6,Semi-Furnished,Independent House,West,Railway Station,5695928
+1812,5,3,30,2,2,19,Semi-Furnished,Villa,South,Garkheda,11194566
+3630,1,4,26,2,4,16,Furnished,Villa,North,Harsul,14495333
+1486,3,4,12,1,5,8,Semi-Furnished,Apartment,West,Jyoti Nagar,9711519
+2402,5,3,27,1,0,2,Semi-Furnished,Villa,West,Harsul,9892775
+2191,4,2,23,2,4,5,Semi-Furnished,Villa,North,Harsul,9294901
+1538,4,1,24,0,2,17,Semi-Furnished,Independent House,North,Seven Hills,9279986
+2047,1,4,23,2,1,15,Unfurnished,Apartment,East,Jyoti Nagar,12492797
+2695,5,2,23,2,5,4,Furnished,Villa,West,Padegaon,12240895
+1904,2,1,25,3,1,6,Semi-Furnished,Independent House,West,Railway Station,10330405
+2557,5,1,0,2,0,5,Unfurnished,Independent House,East,CIDCO,13252980
+832,1,2,24,0,0,14,Unfurnished,Apartment,South,N-3,4027512
+3970,1,1,9,1,2,16,Furnished,Villa,East,Garkheda,22001743
+3666,4,2,3,0,0,16,Semi-Furnished,Villa,North,N-1,18063968
+3699,5,2,9,2,0,15,Furnished,Villa,South,N-3,19975691
+1086,2,1,23,3,0,11,Unfurnished,Independent House,East,Harsul,4267309
+3036,2,1,25,2,2,11,Semi-Furnished,Villa,South,Waluj,10899266
+686,3,1,28,1,4,9,Furnished,Villa,South,Jyoti Nagar,5685311
+3813,1,1,10,1,2,8,Semi-Furnished,Independent House,East,Jyoti Nagar,23850994
+2268,5,2,16,2,3,15,Unfurnished,Independent House,East,N-1,11457922
+571,1,1,25,1,1,0,Furnished,Apartment,West,Railway Station,3015029
+2070,5,1,12,2,4,15,Furnished,Independent House,West,Shahnoorwadi,12621519
+1900,2,1,24,0,2,19,Unfurnished,Villa,North,Waluj,7068866
+2478,2,1,22,1,1,17,Furnished,Villa,East,Padegaon,10747583
+1890,5,4,29,1,5,20,Furnished,Villa,East,N-3,11237978
+1290,2,1,30,3,5,4,Furnished,Villa,South,Osmanpura,9187561
+665,1,1,6,1,3,12,Unfurnished,Apartment,North,Jyoti Nagar,4501315
+3588,5,1,11,3,1,7,Furnished,Apartment,South,N-1,17096486
+3282,4,3,9,2,1,17,Unfurnished,Villa,South,Shahnoorwadi,19019584
+3588,5,3,28,0,0,3,Unfurnished,Apartment,West,N-1,16196496
+2255,2,3,0,1,2,20,Unfurnished,Villa,South,N-2,12237982
+2208,5,2,8,1,2,5,Furnished,Apartment,East,Harsul,8761078
+2301,3,1,19,0,5,18,Semi-Furnished,Apartment,West,Padegaon,9510282
+3663,4,4,0,0,5,16,Furnished,Villa,West,Satara Parisar,17489688
+3294,5,2,30,3,0,15,Semi-Furnished,Apartment,East,Seven Hills,18600351
+2571,1,3,12,2,2,17,Semi-Furnished,Apartment,South,Ulkanagari,16709447
+2382,1,2,0,3,4,2,Unfurnished,Villa,South,Ulkanagari,16383692
+3160,4,2,23,0,0,4,Unfurnished,Apartment,South,Harsul,11102091
+581,2,1,0,0,4,5,Semi-Furnished,Independent House,West,CIDCO,3975683
+1512,2,1,0,3,3,15,Unfurnished,Apartment,North,Seven Hills,9189595
+1282,2,1,2,3,2,8,Semi-Furnished,Villa,South,Padegaon,6637788
+836,2,1,17,3,0,12,Semi-Furnished,Villa,South,Harsul,4383309
+2700,1,4,20,2,3,7,Semi-Furnished,Apartment,East,CIDCO,13541233
+724,4,2,8,1,4,5,Unfurnished,Apartment,West,N-1,3949773
+3605,3,3,18,1,1,3,Unfurnished,Villa,East,Ulkanagari,23479352
+2908,5,4,21,3,1,13,Furnished,Apartment,South,Satara Parisar,13153928
+1504,5,4,10,3,0,5,Semi-Furnished,Independent House,North,Padegaon,7025120
+3531,4,3,27,0,2,15,Furnished,Apartment,South,Waluj,12087184
+906,3,1,11,0,4,7,Semi-Furnished,Apartment,North,CIDCO,5061304
+653,1,3,4,2,1,16,Semi-Furnished,Apartment,North,Beed Bypass,3734330
+2491,1,2,4,2,2,17,Semi-Furnished,Apartment,North,CIDCO,12498718
+1619,5,1,6,3,5,8,Furnished,Independent House,North,Chikalthana,8200440
+3681,3,4,19,0,3,16,Unfurnished,Villa,East,Ulkanagari,24292215
+3193,5,4,8,2,2,0,Unfurnished,Independent House,West,Shahnoorwadi,18139292
+938,2,2,28,2,2,3,Unfurnished,Apartment,South,Garkheda,4890765
+2564,5,2,2,2,5,17,Unfurnished,Apartment,North,Seven Hills,15281816
+2318,1,2,22,3,4,16,Furnished,Independent House,South,Railway Station,12588136
+2421,2,4,23,1,4,10,Unfurnished,Villa,East,Railway Station,13363115
+2757,5,1,30,0,0,6,Furnished,Villa,East,N-2,14305449
+3783,1,3,15,0,1,9,Unfurnished,Villa,East,Ulkanagari,24507951
+1454,3,2,23,3,1,9,Furnished,Apartment,East,N-2,7631628
+1218,3,3,6,3,2,14,Furnished,Apartment,West,Satara Parisar,6283361
+3852,3,1,27,1,0,9,Unfurnished,Villa,North,Osmanpura,23461867
+592,1,1,10,2,4,15,Unfurnished,Apartment,East,N-2,3330692
+2063,3,3,13,3,3,6,Furnished,Villa,West,N-1,11062689
+3104,1,1,12,1,3,13,Semi-Furnished,Independent House,South,N-2,15460950
+1500,2,2,12,0,4,18,Semi-Furnished,Villa,East,Beed Bypass,8287631
+1495,5,2,7,1,2,16,Furnished,Villa,North,Beed Bypass,8943125
+2309,3,4,8,1,1,15,Furnished,Independent House,East,Beed Bypass,12067749
+473,4,1,23,1,2,17,Unfurnished,Independent House,East,Shahnoorwadi,3331256
+2051,2,1,3,0,3,8,Unfurnished,Villa,South,N-3,11217684
+2667,5,2,21,0,4,17,Semi-Furnished,Independent House,South,Chikalthana,11907206
+2953,5,3,10,3,4,6,Unfurnished,Independent House,South,Ulkanagari,19559782
+536,5,2,0,0,4,2,Furnished,Independent House,North,N-2,4127014
+3172,5,1,9,1,5,7,Unfurnished,Villa,South,Satara Parisar,15119173
+2136,3,2,21,0,4,20,Unfurnished,Villa,North,CIDCO,11611531
+3755,3,3,19,0,2,5,Semi-Furnished,Villa,East,Shahnoorwadi,21253002
+930,5,1,9,0,3,4,Unfurnished,Villa,South,Shahnoorwadi,6336378
+1316,2,1,6,0,2,17,Unfurnished,Apartment,South,N-2,6686699
+1347,1,3,28,2,2,17,Unfurnished,Independent House,North,Satara Parisar,6256305
+1015,5,3,29,3,2,10,Unfurnished,Apartment,South,Chikalthana,4542135
+3093,2,3,3,1,5,20,Furnished,Villa,East,Osmanpura,20124389
+2817,1,2,13,0,5,2,Semi-Furnished,Apartment,North,Jyoti Nagar,17538921
+1166,3,2,15,1,4,3,Unfurnished,Independent House,West,Waluj,4744382
+2768,4,4,18,2,4,1,Semi-Furnished,Villa,East,Beed Bypass,14320520
+2988,3,3,25,2,1,11,Unfurnished,Independent House,South,Shahnoorwadi,16366425
+2643,4,3,8,2,1,7,Furnished,Villa,East,Beed Bypass,13870728
+2179,5,2,15,3,5,3,Unfurnished,Independent House,West,Jyoti Nagar,14421697
+3538,4,3,30,0,5,2,Furnished,Villa,West,Harsul,13756743
+1279,1,1,26,2,2,19,Unfurnished,Independent House,North,Satara Parisar,5758516
+3367,1,4,14,0,3,2,Semi-Furnished,Apartment,North,Ulkanagari,21122246
+3202,3,1,23,3,0,14,Furnished,Independent House,North,Osmanpura,19730598
+2242,1,1,8,0,1,12,Furnished,Apartment,South,N-3,11294264
+2312,4,3,21,3,2,16,Furnished,Apartment,West,Harsul,9133663
+917,4,1,22,0,3,14,Semi-Furnished,Apartment,North,Ulkanagari,6207044
+894,2,2,8,0,0,16,Unfurnished,Apartment,West,Shahnoorwadi,5188097
+1784,3,1,1,3,2,6,Semi-Furnished,Villa,North,N-3,10436237
+704,2,3,27,2,5,10,Semi-Furnished,Independent House,North,N-1,4025999
+1205,4,4,28,3,4,18,Semi-Furnished,Apartment,North,Osmanpura,8039570
+1595,3,3,28,0,0,8,Unfurnished,Apartment,West,Ulkanagari,10041926
+1911,5,1,2,2,2,7,Semi-Furnished,Apartment,North,Osmanpura,12074532
+1911,5,3,8,1,5,20,Furnished,Independent House,West,Waluj,7837297
+2979,3,4,18,3,0,17,Unfurnished,Independent House,West,Seven Hills,17160846
+2718,1,2,23,0,3,15,Unfurnished,Independent House,South,Garkheda,14694384
+3087,4,1,12,3,2,11,Semi-Furnished,Villa,South,Garkheda,17715381
+3040,2,4,20,1,1,2,Semi-Furnished,Apartment,East,Padegaon,12002833
+3366,4,1,28,3,5,10,Semi-Furnished,Villa,West,Padegaon,14292801
+3353,2,3,11,2,0,0,Semi-Furnished,Independent House,West,Harsul,12783190
+3005,1,2,4,2,2,0,Furnished,Independent House,East,Shahnoorwadi,16907714
+2498,3,2,7,3,4,6,Furnished,Independent House,North,N-2,13255431
+3626,2,3,6,0,0,19,Semi-Furnished,Villa,West,Jyoti Nagar,23201009
+1378,2,2,28,2,0,1,Furnished,Independent House,North,Seven Hills,8201360
+2200,3,1,27,0,1,3,Unfurnished,Villa,East,N-3,11637489
+1809,4,2,21,0,3,5,Semi-Furnished,Villa,South,Osmanpura,11800115
+523,5,4,29,2,0,19,Furnished,Independent House,West,Shahnoorwadi,3996081
+3866,3,4,27,2,1,18,Unfurnished,Independent House,South,Garkheda,21010257
+1718,2,2,25,3,5,10,Semi-Furnished,Apartment,West,N-1,8476834
+515,1,4,18,3,5,15,Semi-Furnished,Villa,East,Jyoti Nagar,4983798
+2602,4,1,30,3,5,12,Furnished,Independent House,East,N-1,13145210
+1827,1,4,1,1,4,4,Semi-Furnished,Apartment,North,N-1,8803088
+714,5,2,26,1,1,9,Unfurnished,Villa,West,N-3,4579080
+3398,2,2,30,2,2,14,Unfurnished,Villa,North,N-1,16291938
+1849,3,4,2,1,1,3,Semi-Furnished,Villa,West,Chikalthana,8962394
+630,3,2,24,2,0,8,Unfurnished,Villa,West,Satara Parisar,3646950
+3360,3,2,2,0,2,0,Semi-Furnished,Independent House,South,N-3,17633760
+1481,1,3,10,0,0,14,Furnished,Apartment,North,Seven Hills,8520711
+3938,1,1,28,1,3,9,Furnished,Independent House,East,N-2,19100985
+2431,2,1,21,3,4,15,Furnished,Independent House,North,Osmanpura,15350817
+1638,5,2,4,1,5,16,Unfurnished,Villa,East,Garkheda,10429638
+2763,4,3,23,3,4,11,Unfurnished,Independent House,South,Harsul,10842295
+2795,5,2,28,1,1,6,Unfurnished,Villa,North,CIDCO,14588249
+1188,1,2,26,2,5,5,Furnished,Apartment,North,N-2,6274077
+2885,2,3,16,1,1,1,Unfurnished,Independent House,West,Harsul,10733486
+3814,5,1,2,2,2,19,Furnished,Independent House,West,N-1,18826207
+2120,1,4,20,3,5,11,Furnished,Villa,North,Seven Hills,13329606
+2957,4,1,15,0,3,13,Furnished,Villa,East,Seven Hills,18043824
+3338,4,4,9,2,0,8,Unfurnished,Apartment,West,Ulkanagari,21341103
+1738,3,3,5,1,2,10,Unfurnished,Apartment,West,Seven Hills,10158300
+2752,5,2,19,1,3,4,Unfurnished,Apartment,South,Shahnoorwadi,14973338
+3177,2,2,8,0,1,8,Semi-Furnished,Independent House,North,N-2,15747575
+3778,4,2,5,2,2,15,Furnished,Villa,North,Seven Hills,22879706
+3150,2,2,2,1,3,2,Furnished,Apartment,North,Shahnoorwadi,17383494
+796,4,3,24,1,0,13,Unfurnished,Independent House,East,Chikalthana,3830215
+1965,5,4,7,2,5,5,Unfurnished,Independent House,East,Ulkanagari,13429369
+1150,4,4,23,2,0,17,Unfurnished,Apartment,West,Jyoti Nagar,7384807
+3228,2,1,0,2,5,11,Furnished,Independent House,South,Padegaon,13621951
+1132,4,1,9,3,0,11,Semi-Furnished,Villa,North,Waluj,5096996
+1927,3,1,24,3,0,15,Semi-Furnished,Apartment,East,N-1,9172077
+797,1,4,16,1,5,18,Unfurnished,Apartment,South,Harsul,3373101
+548,2,2,1,1,2,2,Furnished,Villa,West,Ulkanagari,4957972
+1945,3,3,11,0,5,11,Unfurnished,Apartment,South,Padegaon,8052966
+3374,3,3,3,2,0,15,Furnished,Independent House,South,Chikalthana,14829574
+1798,5,2,9,2,4,13,Furnished,Apartment,South,N-3,10026374
+2022,5,2,22,3,5,0,Furnished,Villa,North,Beed Bypass,11030399
+1324,1,3,4,3,5,14,Semi-Furnished,Villa,West,N-1,7755607
+1524,3,1,12,3,0,12,Furnished,Independent House,North,Beed Bypass,8000840
+3433,4,2,12,2,3,19,Furnished,Villa,West,Ulkanagari,23413504
+2845,1,2,28,3,5,0,Semi-Furnished,Independent House,South,Chikalthana,12220093
+898,2,3,14,3,0,18,Furnished,Apartment,East,Harsul,3774800
+868,1,4,7,0,4,7,Unfurnished,Independent House,North,Padegaon,4282988
+1951,5,3,30,2,2,5,Furnished,Apartment,South,Chikalthana,8485171
+2729,3,1,29,1,5,0,Semi-Furnished,Apartment,North,Harsul,10128137
+3310,5,4,8,3,3,12,Furnished,Apartment,North,Beed Bypass,16673716
+938,2,4,3,3,4,7,Unfurnished,Apartment,East,CIDCO,5532011
+1123,4,4,20,0,0,8,Furnished,Villa,North,Chikalthana,6041161
+695,5,3,26,1,4,16,Unfurnished,Independent House,South,Railway Station,4463786
+3699,3,4,6,1,4,11,Unfurnished,Apartment,East,Osmanpura,22189243
+2822,5,3,11,1,4,4,Semi-Furnished,Villa,West,Seven Hills,17294351
+1481,1,3,3,0,4,7,Unfurnished,Villa,North,Osmanpura,9945824
+1004,1,1,24,1,3,13,Unfurnished,Independent House,South,CIDCO,5310791
+1365,5,2,29,3,2,7,Furnished,Independent House,South,Harsul,5781946
+3917,5,4,15,2,4,12,Furnished,Independent House,East,Harsul,15222109
+3501,2,3,3,2,4,8,Unfurnished,Villa,East,Jyoti Nagar,22507746
+1096,5,2,3,0,4,10,Furnished,Apartment,South,Chikalthana,5338400
+1975,4,3,1,1,2,17,Unfurnished,Independent House,North,Shahnoorwadi,11559304
+3914,4,4,25,1,2,2,Unfurnished,Villa,East,Railway Station,20964110
+856,2,1,8,0,2,18,Furnished,Independent House,South,Ulkanagari,6499050
+1262,3,3,4,0,0,16,Semi-Furnished,Apartment,North,Harsul,4945601
+3936,2,3,29,1,3,14,Furnished,Apartment,South,Seven Hills,22200459
+3568,5,1,0,1,1,18,Semi-Furnished,Independent House,South,N-3,18892459
+2907,3,1,14,1,4,0,Furnished,Apartment,North,Garkheda,15960559
+1438,1,4,25,2,2,14,Semi-Furnished,Independent House,East,CIDCO,7838845
+1601,5,2,2,2,2,18,Semi-Furnished,Villa,North,Jyoti Nagar,11399262
+539,3,4,12,3,4,3,Unfurnished,Apartment,East,Railway Station,3480281
+1593,5,4,6,0,3,11,Unfurnished,Villa,South,Shahnoorwadi,10081711
+3599,2,2,24,0,3,19,Furnished,Independent House,South,Seven Hills,20744720
+3203,3,3,5,2,2,20,Furnished,Independent House,West,Osmanpura,20132972
+1232,2,2,18,3,1,9,Furnished,Villa,West,Osmanpura,8570198
+504,2,3,27,0,3,18,Unfurnished,Villa,South,Ulkanagari,4275316
+2028,3,4,14,0,5,17,Furnished,Independent House,West,N-2,10702246
+3299,1,4,9,3,0,11,Semi-Furnished,Villa,South,Seven Hills,19745345
+3986,2,3,6,3,3,11,Furnished,Apartment,South,Waluj,13621865
+3521,1,1,21,3,4,12,Furnished,Villa,West,Jyoti Nagar,22817455
+2861,4,2,25,3,4,2,Semi-Furnished,Villa,South,Satara Parisar,13584896
+493,5,4,4,3,0,3,Unfurnished,Apartment,West,Shahnoorwadi,3236559
+3181,4,3,24,0,3,10,Unfurnished,Villa,South,Seven Hills,18848571
+2261,1,3,13,3,1,10,Unfurnished,Apartment,North,Osmanpura,13577142
+2799,2,1,18,3,0,19,Furnished,Apartment,North,Harsul,10610965
+3693,5,4,21,0,5,9,Furnished,Independent House,South,Chikalthana,16270926
+1008,5,2,27,2,0,19,Semi-Furnished,Villa,West,CIDCO,6321356
+1038,5,2,8,0,4,6,Furnished,Independent House,West,Shahnoorwadi,7028829
+3318,2,1,8,1,5,11,Furnished,Independent House,West,Ulkanagari,21875900
+1492,5,2,2,2,4,2,Semi-Furnished,Apartment,South,Railway Station,8584927
+3367,2,4,19,3,1,19,Furnished,Independent House,East,Shahnoorwadi,19239947
+3885,2,2,13,3,3,13,Unfurnished,Apartment,South,Garkheda,20881604
+3720,3,2,13,3,0,0,Unfurnished,Villa,South,Satara Parisar,16824871
+689,3,3,28,3,5,5,Furnished,Independent House,West,Seven Hills,5135259
+3724,5,1,5,3,0,20,Furnished,Villa,West,Ulkanagari,24907934
+1409,5,1,7,1,4,16,Unfurnished,Apartment,West,N-1,7212152
+986,2,4,3,1,4,18,Semi-Furnished,Independent House,West,Seven Hills,6852068
+1815,5,3,16,0,3,13,Semi-Furnished,Villa,East,Padegaon,8689904
+2079,3,2,25,3,5,13,Furnished,Independent House,East,Beed Bypass,10696978
+1501,5,1,22,1,2,12,Furnished,Independent House,East,Satara Parisar,7609138
+3771,3,3,26,2,1,14,Furnished,Villa,East,Padegaon,15827800
+2094,2,1,0,0,5,14,Semi-Furnished,Independent House,West,Shahnoorwadi,12096016
+3920,4,4,3,1,1,11,Furnished,Apartment,North,Waluj,13356415
+3343,1,3,20,2,3,1,Unfurnished,Independent House,North,N-1,15805743
+1907,3,4,26,1,5,7,Unfurnished,Independent House,West,Garkheda,10727126
+1833,2,4,7,1,0,11,Unfurnished,Apartment,North,Shahnoorwadi,10124868
+2592,3,1,24,3,0,5,Furnished,Apartment,West,Padegaon,10161269
+3482,4,3,11,0,3,6,Semi-Furnished,Independent House,North,N-3,18246751
+1779,4,4,7,0,0,1,Furnished,Apartment,North,Padegaon,7548437
+792,5,3,18,1,4,12,Semi-Furnished,Apartment,South,Garkheda,4921237
+2790,5,4,1,1,5,4,Semi-Furnished,Independent House,North,Harsul,11510046
+3900,1,3,25,0,0,16,Unfurnished,Apartment,North,Chikalthana,15599741
+2647,3,3,16,3,4,14,Unfurnished,Independent House,West,CIDCO,13653208
+2989,4,4,21,0,3,12,Furnished,Apartment,East,Chikalthana,12751601
+460,4,4,30,1,2,11,Semi-Furnished,Apartment,East,Osmanpura,2981695
+1982,4,3,27,3,3,20,Unfurnished,Apartment,East,Beed Bypass,9624036
+3701,2,4,4,1,3,16,Unfurnished,Villa,West,N-3,19644227
+946,1,4,8,2,4,0,Semi-Furnished,Independent House,East,CIDCO,5575088
+718,3,2,26,1,0,13,Furnished,Villa,West,N-1,4513051
+1428,2,3,24,1,3,5,Semi-Furnished,Villa,South,Satara Parisar,7467441
+1397,2,2,21,2,0,19,Semi-Furnished,Apartment,West,Chikalthana,6009096
+1111,5,4,9,0,5,7,Unfurnished,Independent House,West,Garkheda,7060263
+621,1,3,21,1,4,3,Semi-Furnished,Independent House,South,Seven Hills,4061034
+3372,2,2,13,3,0,20,Semi-Furnished,Independent House,North,Padegaon,13633294
+2084,5,4,30,3,5,1,Semi-Furnished,Apartment,South,Harsul,8010602
+1226,2,1,26,0,4,10,Semi-Furnished,Villa,South,Satara Parisar,6411873
+3953,4,3,14,2,0,12,Furnished,Independent House,South,Ulkanagari,25794138
+1154,2,1,4,0,4,4,Furnished,Apartment,South,Seven Hills,6937247
+2857,5,1,19,3,0,3,Semi-Furnished,Independent House,South,Osmanpura,17408630
+2449,2,4,16,0,0,5,Unfurnished,Apartment,East,Shahnoorwadi,12995938
+3460,1,3,15,3,5,11,Furnished,Villa,South,Shahnoorwadi,20368057
+702,1,3,12,3,0,5,Unfurnished,Villa,West,Chikalthana,3874282
+1307,4,1,16,3,4,13,Semi-Furnished,Independent House,South,CIDCO,7400746
+1627,2,4,28,2,1,7,Semi-Furnished,Independent House,West,N-2,8357435
+1575,3,4,30,1,0,4,Unfurnished,Independent House,West,Satara Parisar,6972152
+3435,4,2,9,3,0,3,Unfurnished,Villa,East,Seven Hills,20195306
+710,1,1,27,0,1,8,Semi-Furnished,Independent House,West,Padegaon,3035279
+3794,4,3,28,1,0,10,Unfurnished,Apartment,East,N-1,17234174
+2479,5,4,27,1,2,16,Unfurnished,Villa,East,Harsul,10293022
+2929,5,4,2,0,0,8,Semi-Furnished,Independent House,East,Garkheda,16260504
+1791,3,1,4,0,4,0,Unfurnished,Villa,South,N-1,9364602
+971,4,1,29,1,2,11,Semi-Furnished,Villa,West,CIDCO,6047494
+592,4,2,23,3,5,2,Unfurnished,Apartment,West,Osmanpura,4134293
+1559,3,3,11,1,4,9,Unfurnished,Apartment,East,Osmanpura,9587122
+2785,3,4,5,3,2,18,Semi-Furnished,Independent House,East,Shahnoorwadi,16034473
+2987,3,4,0,0,3,10,Furnished,Villa,South,Jyoti Nagar,19809973
+3777,4,3,8,0,1,2,Furnished,Villa,South,Osmanpura,23470287
+3116,4,3,27,2,4,11,Semi-Furnished,Apartment,West,Osmanpura,18877414
+1687,4,1,13,1,3,13,Unfurnished,Apartment,West,Beed Bypass,8341142
+2976,4,1,14,1,2,19,Semi-Furnished,Villa,North,Beed Bypass,15341877
+2869,5,3,26,2,1,14,Unfurnished,Villa,North,Chikalthana,12832164
+3841,2,2,17,1,4,6,Furnished,Villa,West,N-2,19819483
+2629,4,4,23,0,3,5,Unfurnished,Independent House,East,Chikalthana,11216789
+2106,2,1,3,0,5,3,Semi-Furnished,Villa,South,Ulkanagari,14582964
+1647,2,1,20,3,5,4,Unfurnished,Independent House,West,Osmanpura,10529815
+1421,4,1,3,0,4,7,Unfurnished,Independent House,South,Garkheda,8582307
+3799,1,3,10,3,4,5,Furnished,Apartment,East,Seven Hills,21970487
+3417,5,3,23,2,0,7,Furnished,Apartment,North,Chikalthana,14246153
+1478,2,3,26,1,0,15,Semi-Furnished,Villa,North,Padegaon,6862277
+656,1,3,26,0,0,4,Unfurnished,Apartment,South,N-3,3118721
+3591,3,4,23,0,2,8,Furnished,Independent House,South,Jyoti Nagar,22666466
+1061,1,1,20,1,2,15,Furnished,Independent House,South,CIDCO,6043689
+3677,5,2,8,3,2,11,Semi-Furnished,Independent House,East,Seven Hills,21672758
+3432,3,1,5,0,3,18,Semi-Furnished,Villa,West,Padegaon,14711740
+2401,2,4,27,3,1,14,Unfurnished,Villa,West,Shahnoorwadi,13819990
+3444,3,2,12,3,0,18,Furnished,Apartment,North,Satara Parisar,15469056
+3483,4,3,7,3,2,12,Semi-Furnished,Independent House,North,N-2,17928010
+2072,1,3,23,1,0,16,Furnished,Villa,West,Osmanpura,13360034
+1220,4,3,16,2,1,16,Semi-Furnished,Independent House,West,Railway Station,7074996
+2341,5,3,5,3,0,19,Unfurnished,Apartment,West,Satara Parisar,10623644
+2033,5,1,2,1,5,5,Semi-Furnished,Apartment,North,N-2,10536899
+2440,2,3,16,0,5,20,Furnished,Apartment,South,Chikalthana,10490153
+1749,2,1,17,3,2,10,Semi-Furnished,Apartment,South,Ulkanagari,11322261
+2278,4,4,27,1,5,15,Semi-Furnished,Independent House,West,Padegaon,9839431
+2776,4,1,14,3,0,17,Unfurnished,Independent House,South,N-1,13331591
+3735,3,4,27,0,3,9,Unfurnished,Villa,East,Railway Station,19934672
+947,2,2,20,3,0,3,Semi-Furnished,Apartment,East,Ulkanagari,6411995
+3846,5,1,22,3,5,4,Semi-Furnished,Apartment,North,N-3,19494674
+2193,5,4,6,2,0,8,Semi-Furnished,Apartment,West,Harsul,8727267
+925,2,1,12,3,2,14,Unfurnished,Independent House,North,Chikalthana,4788868
+1769,4,3,19,3,4,12,Semi-Furnished,Villa,West,N-2,10043492
+1256,2,3,6,1,4,7,Unfurnished,Villa,West,Chikalthana,6610669
+461,1,1,13,1,5,17,Unfurnished,Independent House,North,N-2,3030350
+3598,2,3,16,0,4,10,Semi-Furnished,Apartment,South,Garkheda,19121744
+1975,4,2,12,3,2,20,Semi-Furnished,Apartment,South,Shahnoorwadi,11294237
+1830,1,1,1,2,1,19,Unfurnished,Apartment,North,Jyoti Nagar,11474791
+3810,3,3,8,1,0,6,Furnished,Apartment,North,N-1,17652695
+3976,4,4,29,1,3,4,Furnished,Villa,West,Seven Hills,23565558
+3586,3,3,17,1,5,1,Unfurnished,Apartment,East,Seven Hills,20320025
+582,2,1,25,2,3,7,Unfurnished,Villa,South,Shahnoorwadi,4324297
+1250,2,2,3,3,0,14,Semi-Furnished,Apartment,North,Garkheda,7121512
+1133,2,2,14,0,5,9,Furnished,Independent House,West,Chikalthana,5473589
+3332,1,3,20,0,1,3,Semi-Furnished,Apartment,West,Garkheda,17471303
+3783,2,1,5,0,5,20,Semi-Furnished,Independent House,South,Jyoti Nagar,23920132
+3597,1,4,6,3,4,1,Furnished,Apartment,East,N-2,17983754
+3315,4,3,19,1,1,7,Unfurnished,Apartment,South,Jyoti Nagar,20074098
+1666,2,1,4,1,5,5,Semi-Furnished,Apartment,South,Satara Parisar,7592228
+3103,3,4,24,0,4,2,Furnished,Villa,West,Chikalthana,13800181
+1810,3,4,12,3,2,4,Semi-Furnished,Villa,West,Jyoti Nagar,12717884
+2072,2,3,4,2,5,12,Semi-Furnished,Villa,South,Osmanpura,13985175
+2841,1,4,9,1,3,5,Semi-Furnished,Apartment,North,Osmanpura,17253948
+2550,5,3,0,3,3,13,Semi-Furnished,Villa,East,Harsul,10853841
+3446,4,3,25,2,1,5,Unfurnished,Apartment,West,N-1,15794994
+3754,1,2,9,0,3,0,Semi-Furnished,Apartment,North,N-3,18897260
+1044,5,3,25,1,4,3,Semi-Furnished,Villa,South,Satara Parisar,5964123
+2035,5,1,3,0,5,19,Unfurnished,Villa,West,Padegaon,9482386
+1858,2,4,16,2,5,2,Unfurnished,Villa,West,Padegaon,8465668
+1883,3,3,7,3,3,18,Furnished,Apartment,South,Harsul,7939276
+1864,5,4,19,3,2,13,Semi-Furnished,Independent House,South,Railway Station,10759509
+2507,5,2,17,1,0,16,Semi-Furnished,Independent House,East,N-2,12623070
+3045,4,1,10,3,5,12,Unfurnished,Independent House,West,Chikalthana,13293287
+2095,5,2,27,3,0,5,Furnished,Villa,North,Shahnoorwadi,12828424
+2772,2,4,22,2,4,8,Furnished,Villa,West,Beed Bypass,14324597
+3845,4,4,30,0,4,15,Furnished,Independent House,South,Padegaon,15676678
+832,5,1,6,3,4,17,Semi-Furnished,Villa,West,Shahnoorwadi,6291346
+645,4,3,9,1,0,16,Unfurnished,Apartment,East,Waluj,2604494
+842,4,3,8,2,1,10,Furnished,Villa,South,N-3,6033516
+1365,3,4,17,0,2,1,Unfurnished,Apartment,North,Satara Parisar,5872014
+2707,4,1,27,2,3,16,Unfurnished,Apartment,West,Ulkanagari,17018795
+499,4,1,3,0,2,7,Unfurnished,Apartment,East,Waluj,2153115
+2798,2,4,12,0,5,19,Semi-Furnished,Apartment,South,N-2,14002998
+2980,4,1,13,0,5,3,Semi-Furnished,Independent House,East,N-1,14262273
+3492,2,1,3,1,2,3,Semi-Furnished,Independent House,South,Seven Hills,20023038
+1544,4,1,2,1,3,9,Furnished,Apartment,West,Chikalthana,7228558
+852,5,4,18,1,1,11,Unfurnished,Apartment,South,Garkheda,4973799
+2064,4,1,4,1,5,20,Semi-Furnished,Apartment,East,Chikalthana,9401590
+2474,3,3,25,1,3,9,Unfurnished,Villa,South,CIDCO,13011660
+3602,1,4,22,2,0,17,Furnished,Apartment,West,Shahnoorwadi,19436645
+1520,5,2,1,3,4,5,Unfurnished,Apartment,East,CIDCO,8120455
+1450,4,2,29,2,0,4,Semi-Furnished,Apartment,South,Satara Parisar,6351476
+846,3,4,25,1,0,18,Semi-Furnished,Independent House,West,Ulkanagari,6261246
+1754,4,2,10,0,1,16,Semi-Furnished,Independent House,North,N-2,9313863
+3188,5,2,30,3,4,11,Semi-Furnished,Independent House,North,Chikalthana,13812943
+1550,2,1,8,1,3,8,Unfurnished,Apartment,South,Waluj,5527454
+2959,3,4,20,1,0,5,Furnished,Independent House,East,Chikalthana,12716403
+3489,1,4,5,3,2,1,Semi-Furnished,Independent House,South,Railway Station,18657531
+2512,2,4,12,0,0,7,Unfurnished,Apartment,East,Osmanpura,14948143
+2851,1,1,15,2,3,11,Unfurnished,Apartment,North,Harsul,10381541
+3551,1,1,15,2,4,13,Unfurnished,Apartment,South,Ulkanagari,22421799
+2389,5,4,21,1,3,17,Semi-Furnished,Apartment,North,Harsul,9316877
+1301,2,4,23,3,2,9,Unfurnished,Villa,East,Waluj,5393451
+942,2,1,26,1,1,1,Semi-Furnished,Apartment,East,Satara Parisar,4225569
+2814,5,2,10,1,2,1,Furnished,Villa,East,N-2,15019518
+1827,3,2,20,1,2,3,Furnished,Independent House,North,Railway Station,10067082
+3895,3,4,14,1,5,6,Unfurnished,Villa,West,Railway Station,21009169
+3888,5,2,27,0,0,13,Unfurnished,Independent House,East,N-2,18682004
+1321,4,2,4,3,5,18,Furnished,Independent House,East,N-3,8313684
+3604,4,4,15,0,2,3,Unfurnished,Independent House,North,Garkheda,19532642
+3296,3,4,21,3,5,20,Unfurnished,Independent House,West,Seven Hills,19330561
+1436,4,4,22,1,2,15,Unfurnished,Apartment,North,Shahnoorwadi,8318330
+2903,1,1,16,2,1,12,Unfurnished,Independent House,South,Jyoti Nagar,17980228
+3106,4,2,12,3,5,16,Unfurnished,Villa,West,Beed Bypass,16117338
+751,5,3,6,3,2,3,Unfurnished,Apartment,South,N-2,4482746
+2214,4,4,3,1,1,12,Semi-Furnished,Independent House,West,Railway Station,12380220
+2330,2,4,22,0,1,7,Furnished,Villa,East,Ulkanagari,15836437
+3989,5,4,1,2,2,12,Unfurnished,Independent House,West,N-3,20750121
+581,3,3,6,3,1,6,Furnished,Villa,East,Garkheda,4903929
+3857,1,4,14,3,5,13,Semi-Furnished,Independent House,East,Railway Station,20714863
+3560,4,4,27,3,0,13,Unfurnished,Villa,West,Railway Station,19174888
+1171,4,3,1,3,4,19,Semi-Furnished,Villa,South,Waluj,5763722
+1007,1,1,18,1,2,13,Semi-Furnished,Villa,East,N-3,6095174
+3425,5,4,27,2,1,0,Furnished,Independent House,South,Jyoti Nagar,21861670
+3248,5,2,23,1,5,5,Unfurnished,Villa,West,Waluj,11944430
+2538,4,4,3,0,5,19,Semi-Furnished,Villa,South,Satara Parisar,12499908
+3959,5,4,12,0,3,13,Semi-Furnished,Villa,South,N-1,19495728
+2003,5,2,15,3,3,20,Semi-Furnished,Villa,East,Waluj,8347808
+1269,5,3,17,3,2,15,Semi-Furnished,Villa,South,Railway Station,8248606
+1858,2,4,7,1,0,1,Furnished,Apartment,East,Ulkanagari,12305733
+2192,3,1,14,1,1,10,Semi-Furnished,Independent House,North,Chikalthana,9597238
+2955,4,1,6,1,3,2,Furnished,Villa,South,Waluj,11140145
+2390,1,4,17,3,3,15,Unfurnished,Villa,South,Jyoti Nagar,15636335
+1845,3,2,15,0,3,8,Furnished,Villa,North,Railway Station,10743141
+1776,2,2,12,1,4,5,Unfurnished,Apartment,South,CIDCO,9015196
+1075,2,3,4,3,4,12,Semi-Furnished,Apartment,East,Garkheda,6380568
+818,3,2,12,0,3,19,Unfurnished,Apartment,South,Harsul,3177650
+2724,4,1,11,2,4,17,Unfurnished,Apartment,North,Satara Parisar,12318099
+3115,5,3,11,2,3,18,Semi-Furnished,Apartment,North,Waluj,10958475
+1675,5,3,12,0,1,17,Unfurnished,Apartment,South,Shahnoorwadi,9490645
+3875,4,1,1,2,5,13,Furnished,Villa,North,Railway Station,21326099
+1998,1,1,0,2,5,19,Furnished,Villa,East,Waluj,8325513
+845,4,3,9,2,4,4,Unfurnished,Villa,South,Railway Station,6074356
+2999,4,4,25,1,0,19,Unfurnished,Apartment,East,Beed Bypass,14028532
+3271,4,2,13,1,2,5,Furnished,Apartment,North,Shahnoorwadi,17968873
+2947,5,3,22,3,0,5,Furnished,Villa,South,Jyoti Nagar,19485895
+1412,2,2,28,1,0,17,Furnished,Villa,North,Ulkanagari,9953593
+941,4,2,8,0,4,15,Unfurnished,Apartment,South,Beed Bypass,4817122
+3289,2,4,11,0,0,12,Semi-Furnished,Apartment,East,Padegaon,12975309
+785,1,2,25,3,1,0,Unfurnished,Villa,South,Ulkanagari,5731799
+2783,2,3,14,3,0,17,Semi-Furnished,Independent House,South,N-3,14469157
+3103,1,2,24,1,3,16,Semi-Furnished,Independent House,West,Beed Bypass,14901718
+515,4,1,22,3,2,13,Unfurnished,Apartment,North,N-2,2938617
+1335,2,4,5,1,3,6,Semi-Furnished,Independent House,South,Satara Parisar,6677463
+3682,1,2,5,1,0,13,Semi-Furnished,Apartment,South,CIDCO,17912605
+1130,4,3,10,2,2,13,Semi-Furnished,Apartment,South,Shahnoorwadi,6918201
+2276,2,4,21,0,2,20,Furnished,Villa,South,Shahnoorwadi,13592567
+454,1,1,17,0,3,19,Semi-Furnished,Independent House,North,Waluj,2266560
+1241,1,2,11,0,2,16,Semi-Furnished,Villa,North,Jyoti Nagar,8864617
+489,1,3,6,3,4,12,Unfurnished,Apartment,West,Harsul,2449615
+2588,3,3,5,2,3,9,Semi-Furnished,Apartment,East,N-3,13537108
+949,3,3,6,1,3,4,Furnished,Apartment,South,Padegaon,4356322
+1635,3,3,25,2,3,6,Unfurnished,Independent House,West,N-3,8950725
+3833,3,3,26,0,5,8,Furnished,Apartment,West,Shahnoorwadi,20791110
+558,1,2,29,1,1,13,Unfurnished,Independent House,East,N-3,2926252
+3146,5,1,13,0,0,7,Furnished,Independent House,North,Harsul,12002967
+1122,3,2,13,1,5,14,Semi-Furnished,Apartment,North,Railway Station,6544509
+2653,3,3,15,3,0,18,Unfurnished,Villa,North,Jyoti Nagar,17453788
+2079,1,3,23,1,1,11,Semi-Furnished,Apartment,West,Seven Hills,11782222
+949,1,4,15,0,2,14,Semi-Furnished,Independent House,East,Beed Bypass,5285302
+1532,1,4,18,1,0,8,Furnished,Villa,South,Waluj,6452391
+3990,1,2,22,0,0,16,Furnished,Apartment,East,Harsul,14187608
+2050,5,4,8,3,5,12,Semi-Furnished,Villa,West,N-3,12071611
+1676,5,4,29,1,2,2,Semi-Furnished,Villa,East,N-3,9465197
+1833,2,4,28,3,5,20,Unfurnished,Apartment,North,N-2,9312439
+1639,4,3,15,3,0,19,Unfurnished,Apartment,West,Osmanpura,10243166
+1366,1,2,18,0,5,19,Furnished,Independent House,North,Satara Parisar,6829955
+1933,3,2,1,0,3,17,Furnished,Villa,West,N-3,11244753
+2926,1,1,19,0,4,15,Semi-Furnished,Independent House,West,N-3,14968311
+2981,5,4,13,2,3,13,Semi-Furnished,Villa,East,Shahnoorwadi,17836290
+3017,1,2,16,3,4,4,Semi-Furnished,Apartment,East,N-3,15458063
+3504,4,3,4,2,1,8,Semi-Furnished,Apartment,North,N-1,16419425
+1019,4,4,12,1,1,8,Semi-Furnished,Apartment,East,Harsul,4253043
+492,5,3,13,1,5,15,Furnished,Apartment,North,Waluj,2563804
+2534,3,4,19,0,3,3,Semi-Furnished,Apartment,North,N-1,11820621
+616,2,4,23,3,3,14,Furnished,Independent House,East,Shahnoorwadi,4441545
+1785,5,4,4,1,3,8,Semi-Furnished,Villa,North,Waluj,7822707
+1520,3,1,17,0,0,7,Unfurnished,Independent House,South,Waluj,5471235
+1108,1,2,26,0,2,1,Furnished,Villa,West,Harsul,5009766
+3261,5,3,19,3,3,14,Semi-Furnished,Independent House,East,Padegaon,13736777
+1851,2,1,20,1,1,15,Unfurnished,Villa,East,Satara Parisar,9039127
+1675,1,2,22,2,0,16,Furnished,Villa,South,Satara Parisar,8321306
+2432,4,4,6,3,5,8,Furnished,Apartment,North,Beed Bypass,12658437
+3250,1,4,21,1,5,7,Unfurnished,Apartment,West,Seven Hills,18163745
+3868,5,1,23,3,3,13,Unfurnished,Independent House,South,Osmanpura,23278776
+2184,5,3,6,1,1,2,Unfurnished,Independent House,North,Satara Parisar,10081329
+627,1,2,23,1,5,13,Unfurnished,Villa,North,Padegaon,3443776
+1067,5,4,9,1,2,1,Unfurnished,Villa,South,CIDCO,6664198
+738,4,3,8,3,4,1,Furnished,Villa,West,Ulkanagari,6537375
+1369,3,4,18,0,4,12,Semi-Furnished,Villa,South,CIDCO,8131839
+2249,5,4,18,1,3,6,Unfurnished,Apartment,East,Seven Hills,13073941
+3467,4,1,15,0,0,20,Unfurnished,Independent House,North,Railway Station,17900263
+662,5,1,7,3,4,16,Furnished,Villa,East,CIDCO,5327756
+3898,2,2,26,3,0,15,Semi-Furnished,Apartment,East,Shahnoorwadi,21159498
+3871,5,4,19,0,3,9,Semi-Furnished,Villa,West,Osmanpura,24043912
+908,3,1,21,1,1,13,Unfurnished,Villa,East,Seven Hills,6247741
+2654,1,1,4,3,2,0,Unfurnished,Independent House,East,Satara Parisar,11792475
+2246,1,2,25,0,5,15,Furnished,Independent House,North,Satara Parisar,10360174
+2339,4,3,11,3,5,2,Semi-Furnished,Apartment,North,Osmanpura,14580626
+2263,5,2,22,2,2,12,Unfurnished,Independent House,West,N-1,11109229
+756,4,4,25,0,1,5,Unfurnished,Apartment,North,Ulkanagari,4861776
+2023,5,3,13,2,4,14,Furnished,Apartment,East,Padegaon,8765519
+2895,1,3,6,1,5,20,Furnished,Independent House,South,CIDCO,15080959
+3131,1,3,4,1,5,19,Furnished,Villa,West,Garkheda,18152941
+3808,2,1,8,1,4,10,Unfurnished,Apartment,North,N-2,18506949
+1313,4,3,18,3,5,1,Unfurnished,Apartment,South,Railway Station,7432177
+925,1,2,18,1,4,13,Semi-Furnished,Independent House,West,Chikalthana,4651774
+3656,4,2,9,0,4,2,Furnished,Apartment,South,Osmanpura,21897965
+3407,4,1,18,1,4,2,Semi-Furnished,Villa,South,N-1,16934652
+2563,5,2,25,0,4,1,Semi-Furnished,Villa,West,Chikalthana,11559715
+3554,1,1,9,3,1,18,Furnished,Apartment,North,Harsul,13039608
+3307,4,4,3,1,3,4,Unfurnished,Villa,South,N-2,17242280
+2936,3,1,13,3,0,17,Furnished,Independent House,West,Satara Parisar,13598899
+1523,4,2,14,3,1,17,Furnished,Apartment,South,Railway Station,8465817
+996,2,1,5,2,2,3,Unfurnished,Villa,North,Beed Bypass,5837759
+2812,5,3,1,0,5,15,Semi-Furnished,Apartment,West,Padegaon,11755984
+3980,2,3,16,1,2,10,Semi-Furnished,Villa,North,Harsul,15299290
+2016,4,2,27,3,0,19,Unfurnished,Villa,North,CIDCO,10809330
+3467,2,2,1,3,1,17,Unfurnished,Villa,East,Garkheda,19512438
+2060,2,2,29,1,3,9,Semi-Furnished,Villa,East,Jyoti Nagar,13519018
+3474,4,4,25,3,1,13,Furnished,Independent House,West,N-1,16798360
+3286,4,1,25,1,3,4,Semi-Furnished,Apartment,North,Beed Bypass,15435302
+1957,1,1,6,3,2,14,Unfurnished,Villa,North,N-3,11198606
+660,1,4,16,1,2,10,Furnished,Independent House,North,Osmanpura,4779458
+1619,1,3,19,1,4,17,Unfurnished,Villa,North,Seven Hills,10246800
+3768,4,1,9,0,1,3,Unfurnished,Villa,East,Garkheda,20829499
+642,1,1,5,2,2,11,Furnished,Apartment,North,Ulkanagari,4630145
+1133,4,2,12,3,5,11,Furnished,Independent House,North,Seven Hills,7958463
+3009,5,4,8,1,0,11,Unfurnished,Apartment,West,Harsul,11195723
+2761,1,2,12,0,0,4,Semi-Furnished,Villa,West,Seven Hills,16077097
+3173,1,3,7,0,1,16,Furnished,Villa,East,N-3,17233560
+2263,5,3,17,1,0,20,Unfurnished,Villa,West,Garkheda,13133272
+1750,4,4,18,1,1,1,Semi-Furnished,Villa,South,Garkheda,10428291
+788,1,3,29,0,2,11,Furnished,Apartment,North,Padegaon,3199471
+1738,5,3,21,3,4,7,Furnished,Independent House,North,Beed Bypass,9388920
+1454,1,4,28,1,5,14,Furnished,Villa,North,Padegaon,7138388
+2164,4,2,15,3,5,5,Furnished,Villa,East,Osmanpura,14514562
+836,4,2,17,0,2,9,Unfurnished,Villa,East,Shahnoorwadi,5719152
+2797,5,4,11,0,4,4,Unfurnished,Villa,South,Jyoti Nagar,18400325
+2742,1,1,11,1,5,5,Unfurnished,Independent House,West,Jyoti Nagar,17043402
+875,4,1,1,1,1,9,Furnished,Independent House,West,Railway Station,5444175
+3599,5,3,16,1,0,11,Furnished,Independent House,North,Satara Parisar,16266448
+598,4,3,11,2,1,18,Furnished,Apartment,North,Harsul,3155788
+1203,5,4,16,3,5,11,Furnished,Independent House,South,N-3,7472897
+2127,1,1,18,3,1,14,Unfurnished,Villa,North,Shahnoorwadi,12399193
+1707,2,4,28,2,2,15,Unfurnished,Apartment,North,Padegaon,6832314
+1888,1,4,20,2,5,7,Furnished,Villa,South,Waluj,7666233
+2491,4,3,15,3,4,7,Unfurnished,Independent House,North,N-1,12226072
+1676,5,2,23,2,1,19,Unfurnished,Apartment,West,CIDCO,8757933
+1299,5,3,5,2,0,15,Semi-Furnished,Apartment,South,Garkheda,7588814
+2934,5,3,16,0,4,17,Semi-Furnished,Villa,North,Railway Station,16350572
+755,2,2,22,1,3,7,Furnished,Independent House,West,Ulkanagari,5667839
+852,5,3,14,3,1,16,Unfurnished,Villa,East,Ulkanagari,7131634
+1200,5,3,10,1,1,2,Semi-Furnished,Villa,West,N-2,7264760
+961,3,4,26,0,4,5,Furnished,Apartment,East,Padegaon,4259405
+2151,1,3,14,0,4,16,Furnished,Villa,North,CIDCO,11839992
+3425,3,1,7,0,5,18,Unfurnished,Villa,South,Harsul,13520311
+3832,4,3,12,1,4,15,Semi-Furnished,Villa,North,Ulkanagari,25344665
+593,4,3,15,2,2,12,Unfurnished,Villa,North,Harsul,3591578
+2739,2,3,13,3,5,7,Semi-Furnished,Independent House,North,Harsul,10867199
+3351,3,2,20,0,1,7,Unfurnished,Villa,West,Ulkanagari,22022663
+2240,1,1,16,2,0,0,Semi-Furnished,Independent House,South,N-1,10573057
+1716,4,1,9,0,3,13,Unfurnished,Villa,South,Beed Bypass,9487094
+1318,2,3,7,0,1,2,Unfurnished,Villa,North,Railway Station,7818399
+3331,1,2,30,0,4,8,Unfurnished,Independent House,West,Osmanpura,19590168
+3599,3,1,29,3,4,3,Unfurnished,Apartment,East,Beed Bypass,16794177
+467,3,3,15,1,1,7,Semi-Furnished,Villa,South,CIDCO,3758034
+3716,4,2,8,0,4,4,Unfurnished,Independent House,East,N-1,17786543
+1040,3,3,7,3,3,14,Furnished,Villa,North,Harsul,5705797
+3835,2,2,3,2,2,2,Furnished,Villa,North,N-3,20471921
+2417,1,1,16,1,1,15,Semi-Furnished,Independent House,West,N-2,12251221
+3229,4,4,16,1,5,2,Unfurnished,Independent House,South,Garkheda,17736177
+3452,1,2,17,1,2,20,Unfurnished,Apartment,South,N-1,16017077
+1120,2,3,20,3,1,12,Unfurnished,Independent House,West,Harsul,4719366
+2645,5,1,7,0,1,8,Semi-Furnished,Villa,South,Harsul,10762904
+2171,5,3,29,0,0,19,Semi-Furnished,Independent House,West,N-1,10402089
+2575,1,1,16,0,2,6,Unfurnished,Villa,North,Shahnoorwadi,14481534
+1808,5,2,0,1,2,19,Semi-Furnished,Independent House,East,Beed Bypass,9608588
+3973,3,4,28,0,5,19,Unfurnished,Villa,East,Railway Station,21339912
+1719,2,4,19,1,4,18,Unfurnished,Independent House,North,Osmanpura,10760608
+1279,3,1,6,0,2,14,Unfurnished,Independent House,East,Seven Hills,7906147
+3608,1,1,19,3,5,3,Semi-Furnished,Independent House,East,CIDCO,18197067
+3688,4,4,24,3,0,16,Unfurnished,Villa,East,Seven Hills,21900175
+3143,3,2,19,2,3,8,Furnished,Apartment,West,Ulkanagari,20380400
+2056,4,2,12,3,0,14,Furnished,Independent House,East,Jyoti Nagar,13815127
+1824,4,3,1,3,2,9,Semi-Furnished,Apartment,South,Chikalthana,8248370
+1611,1,4,29,0,2,0,Semi-Furnished,Independent House,West,CIDCO,8274475
+2365,4,3,21,1,1,13,Semi-Furnished,Apartment,West,Waluj,7994734
+2776,3,3,1,1,5,18,Unfurnished,Independent House,South,Osmanpura,17364638
+734,5,1,25,3,4,15,Furnished,Independent House,West,CIDCO,4732369
+895,3,4,23,2,0,16,Semi-Furnished,Independent House,South,Ulkanagari,6299441
+2494,3,2,9,3,3,17,Furnished,Villa,West,N-1,13154310
+1419,2,3,11,0,3,17,Unfurnished,Apartment,North,N-1,6983677
+818,1,1,19,1,0,14,Unfurnished,Independent House,North,Beed Bypass,4330150
+1622,1,1,18,0,1,5,Furnished,Apartment,West,Osmanpura,9624710
+3568,5,2,25,2,0,18,Furnished,Villa,West,Osmanpura,22401856
+1886,2,2,19,1,5,2,Semi-Furnished,Independent House,West,Satara Parisar,8718326
+2566,3,2,14,2,3,13,Furnished,Apartment,South,Beed Bypass,12589884
+3318,5,2,7,2,0,4,Furnished,Independent House,West,Railway Station,17767141
+3664,5,4,14,3,0,10,Furnished,Independent House,North,Ulkanagari,24044019
+3164,1,1,18,1,2,20,Furnished,Independent House,South,Seven Hills,18518260
+2175,1,4,2,1,5,17,Furnished,Villa,South,CIDCO,12233326
+3034,4,4,30,1,5,12,Semi-Furnished,Villa,West,CIDCO,16291387
+2897,2,4,9,3,2,5,Unfurnished,Independent House,East,Shahnoorwadi,16442772
+1255,4,1,25,0,0,7,Semi-Furnished,Villa,North,Padegaon,5800775
+2571,2,4,24,3,1,9,Furnished,Independent House,East,Harsul,10171429
+3102,4,1,17,0,0,9,Furnished,Apartment,East,Harsul,11488891
+2733,5,4,26,1,0,13,Unfurnished,Independent House,West,N-1,13103495
+2194,3,3,28,1,0,12,Unfurnished,Villa,East,Railway Station,12092463
+2163,2,2,21,2,2,16,Furnished,Independent House,South,Garkheda,12204441
+3483,1,2,19,0,4,5,Semi-Furnished,Apartment,East,Satara Parisar,14823933
+3757,2,1,4,3,4,11,Semi-Furnished,Apartment,North,Satara Parisar,16589254
+1492,4,3,10,2,5,20,Furnished,Apartment,North,Seven Hills,9546430
+1311,2,1,27,3,1,0,Semi-Furnished,Independent House,South,Osmanpura,8189504
+3677,2,4,10,0,4,0,Unfurnished,Villa,West,Garkheda,20529588
