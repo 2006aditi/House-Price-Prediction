@@ -4,7 +4,6 @@ import pandas as pd
 import sqlite3
 from pathlib import Path
 import plotly.express as px
-
 from backend import predict_house_price
 
 BASE_DIR = Path(__file__).resolve().parent
